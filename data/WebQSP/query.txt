@@ -1,0 +1,1616 @@
+{"query": "what does jamaican people speak?", "entity_name": "Jamaica", "entity_mid": "m.03_r3"}
+{"query": "who plays ken barlow in coronation street?", "entity_name": "Coronation Street", "entity_mid": "m.01_2n"}
+{"query": "where is jamarcus russell from?", "entity_name": "JaMarcus Russell", "entity_mid": "m.0cjcdj"}
+{"query": "where was george washington carver from?", "entity_name": "George Washington Carver", "entity_mid": "m.03djm"}
+{"query": "what else did ben franklin invent?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "who was richard nixon married to?", "entity_name": "Richard Nixon", "entity_mid": "m.06c97"}
+{"query": "who is governor of ohio 2011?", "entity_name": "Ohio", "entity_mid": "m.05kkh"}
+{"query": "who was vice president after kennedy died?", "entity_name": "John F. Kennedy", "entity_mid": "m.0d3k14"}
+{"query": "where is the fukushima daiichi nuclear plant located?", "entity_name": "Fukushima Daiichi Nuclear Power Plant", "entity_mid": "m.02vkzy2"}
+{"query": "what countries are part of the uk?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "what is my timezone in louisiana?", "entity_name": "Louisiana", "entity_mid": "m.04ly1"}
+{"query": "what did st augustine do?", "entity_name": "Augustine of Hippo", "entity_mid": "m.0w6w"}
+{"query": "who is keyshia cole dad?", "entity_name": "Keyshia Cole", "entity_mid": "m.01pkxs9"}
+{"query": "what kind government does egypt have?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what town was martin luther king assassinated in?", "entity_name": "Martin Luther King, Jr.", "entity_mid": "m.051cc"}
+{"query": "where did edgar allan poe died?", "entity_name": "Edgar Allan Poe", "entity_mid": "m.02lt8"}
+{"query": "what to do today in atlanta with kids?", "entity_name": "Atlanta", "entity_mid": "m.013yq"}
+{"query": "what electorate does anna bligh represent?", "entity_name": "Anna Bligh", "entity_mid": "m.072_m3"}
+{"query": "where did andy murray started playing tennis?", "entity_name": "Andy Murray", "entity_mid": "m.03wc52"}
+{"query": "what is the australian dollar called?", "entity_name": "Australian dollar", "entity_mid": "m.0kz1h"}
+{"query": "what timezone is sweden?", "entity_name": "Sweden", "entity_mid": "m.0d0vqn"}
+{"query": "who did cam newton sign with?", "entity_name": "Cam Newton", "entity_mid": "m.02phnp7"}
+{"query": "what county is frederick md in?", "entity_name": "Frederick", "entity_mid": "m.0dhml"}
+{"query": "what highschool did harper lee go to?", "entity_name": "Harper Lee", "entity_mid": "m.01bq7x"}
+{"query": "what timezone is utah in?", "entity_name": "Utah", "entity_mid": "m.07srw"}
+{"query": "who is niall ferguson's wife?", "entity_name": "Niall Ferguson", "entity_mid": "m.033mkn"}
+{"query": "where is the galapagos islands located on a world map?", "entity_name": "Gal\u00e1pagos Islands", "entity_mid": "m.016zjj"}
+{"query": "what are the songs that justin bieber wrote?", "entity_name": "Justin Bieber", "entity_mid": "m.06w2sn5"}
+{"query": "what did george clemenceau do?", "entity_name": "Georges Cl\u00e9menceau", "entity_mid": "m.0hff8"}
+{"query": "what is the state flower of arizona?", "entity_name": "Arizona", "entity_mid": "m.0vmt"}
+{"query": "where was rihanna born and raised?", "entity_name": "Rihanna", "entity_mid": "m.06mt91"}
+{"query": "what year did president william henry harrison take office?", "entity_name": "William Henry Harrison", "entity_mid": "m.0835q"}
+{"query": "where george lopez was born?", "entity_name": "George Lopez", "entity_mid": "m.02xfj0"}
+{"query": "where are samsung based?", "entity_name": "Samsung Group", "entity_mid": "m.07gv72"}
+{"query": "what did the islamic people believe in?", "entity_name": "Islam", "entity_mid": "m.0flw86"}
+{"query": "who will play mr gray in the film?", "entity_name": "Christian Grey", "entity_mid": "m.0nfjvrm"}
+{"query": "what did george orwell died of?", "entity_name": "George Orwell", "entity_mid": "m.034bs"}
+{"query": "what country did adolf hitler control?", "entity_name": "Adolf Hitler", "entity_mid": "m.07_m9_"}
+{"query": "who is michael buble?", "entity_name": "Michael Bubl\u00e9", "entity_mid": "m.02xkkq"}
+{"query": "what county is kansas city kansas?", "entity_name": "Kansas City", "entity_mid": "m.0tcj6"}
+{"query": "who did jackie robinson first play for?", "entity_name": "Jackie Robinson", "entity_mid": "m.0443c"}
+{"query": "when did annie open?", "entity_name": "Annie", "entity_mid": "m.01_1m4"}
+{"query": "where did eleanor roosevelt die?", "entity_name": "Eleanor Roosevelt", "entity_mid": "m.02n9k"}
+{"query": "what are the religions practiced in indonesia?", "entity_name": "Indonesia", "entity_mid": "m.03ryn"}
+{"query": "what was jesse james killed with?", "entity_name": "Jesse James", "entity_mid": "m.02khkd"}
+{"query": "who was vp for lincoln?", "entity_name": "Abraham Lincoln", "entity_mid": "m.0gzh"}
+{"query": "what other books did charles dickens write?", "entity_name": "Charles Dickens", "entity_mid": "m.01v9724"}
+{"query": "who was the first dictator of the soviet union?", "entity_name": "Soviet Union", "entity_mid": "m.05vz3zq"}
+{"query": "what is the currency of puerto rico called?", "entity_name": "Puerto Rico", "entity_mid": "m.05r7t"}
+{"query": "what kind of cancer did carl wilson have?", "entity_name": "Carl Wilson", "entity_mid": "m.01n9vwg"}
+{"query": "who plays the voice of kitt in knight rider?", "entity_name": "Knight Rider", "entity_mid": "m.0bvxv"}
+{"query": "what county is brentwood tennessee in?", "entity_name": "Brentwood", "entity_mid": "m.0_xcq"}
+{"query": "who did michael j fox marry?", "entity_name": "Michael J. Fox", "entity_mid": "m.0hz_1"}
+{"query": "what battles did stonewall jackson fight in?", "entity_name": "Stonewall Jackson", "entity_mid": "m.07r8h"}
+{"query": "what language do the maasai tribe speak?", "entity_name": "Maasai people", "entity_mid": "m.054vv"}
+{"query": "who did benjamin franklin get married to?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "what disease did patrick swayze died from?", "entity_name": "Patrick Swayze", "entity_mid": "m.02h3tp"}
+{"query": "what works of art did leonardo da vinci produce?", "entity_name": "Leonardo da Vinci", "entity_mid": "m.04lg6"}
+{"query": "what capital of austria?", "entity_name": "Austria", "entity_mid": "m.0h7x"}
+{"query": "what type of cancer did eva peron have?", "entity_name": "Eva Per\u00f3n", "entity_mid": "m.0dltj"}
+{"query": "what country did buddha come from?", "entity_name": "Gautama Buddha", "entity_mid": "m.015k7"}
+{"query": "what county is greeley colorado in?", "entity_name": "Greeley", "entity_mid": "m.0rczx"}
+{"query": "what did peter tchaikovsky do?", "entity_name": "Pyotr Ilyich Tchaikovsky", "entity_mid": "m.063tn"}
+{"query": "which countries speak german officially?", "entity_name": "German Language", "entity_mid": "m.04306rv"}
+{"query": "what type of music did john lennon sing?", "entity_name": "John Lennon", "entity_mid": "m.01vsl3_"}
+{"query": "who are the colorado representatives?", "entity_name": "Colorado", "entity_mid": "m.01n4w"}
+{"query": "which country does greenland belong to?", "entity_name": "Greenland", "entity_mid": "m.035v3"}
+{"query": "what the zip code for seattle washington?", "entity_name": "Seattle", "entity_mid": "m.0d9jr"}
+{"query": "who is willow smith mom name?", "entity_name": "Willow Smith", "entity_mid": "m.03gq433"}
+{"query": "what do you call the chinese writing system?", "entity_name": "Chinese language", "entity_mid": "m.01r2l"}
+{"query": "who played on the jeffersons?", "entity_name": "The Jeffersons", "entity_mid": "m.02f8jf"}
+{"query": "what is the name of the san francisco newspaper?", "entity_name": "San Francisco", "entity_mid": "m.0d6lp"}
+{"query": "what continent does armenia belong to?", "entity_name": "Armenia", "entity_mid": "m.0jgx"}
+{"query": "what did randy savage died of?", "entity_name": "Randy Savage", "entity_mid": "m.02p7_z"}
+{"query": "what was the title of the book charles darwin wrote?", "entity_name": "Charles Darwin", "entity_mid": "m.01lwx"}
+{"query": "where did richard nixon die?", "entity_name": "Richard Nixon", "entity_mid": "m.06c97"}
+{"query": "what songs does smokey robinson sing?", "entity_name": "Smokey Robinson", "entity_mid": "m.012_6c"}
+{"query": "who was vice president when jfk was president?", "entity_name": "John F. Kennedy", "entity_mid": "m.0d3k14"}
+{"query": "what is serbian language called?", "entity_name": "Serbia", "entity_mid": "m.077qn"}
+{"query": "what language is spoken in haiti today?", "entity_name": "Haiti", "entity_mid": "m.03gyl"}
+{"query": "who played barbara gordon batgirl?", "entity_name": "Barbara Gordon", "entity_mid": "m.03hvfx"}
+{"query": "what basketball teams has shaq played for?", "entity_name": "Shaquille O'Neal", "entity_mid": "m.012xdf"}
+{"query": "where is jay leno from?", "entity_name": "Jay Leno", "entity_mid": "m.046lt"}
+{"query": "what language do people from thailand speak?", "entity_name": "Thailand", "entity_mid": "m.07f1x"}
+{"query": "who did armie hammer play in the social network?", "entity_name": "The Social Network", "entity_mid": "m.07s846j"}
+{"query": "what was thomas jefferson role in the declaration of independence?", "entity_name": "Thomas Jefferson", "entity_mid": "m.07cbs"}
+{"query": "what was the book written by charles darwin?", "entity_name": "Charles Darwin", "entity_mid": "m.01lwx"}
+{"query": "who did tim tebow play college football for?", "entity_name": "Tim Tebow", "entity_mid": "m.0g7km1"}
+{"query": "who does peyton manning play football for?", "entity_name": "Peyton Manning", "entity_mid": "m.027jv8"}
+{"query": "where is the carpathian mountain range located?", "entity_name": "Carpathian Mountains", "entity_mid": "m.0cdsk"}
+{"query": "what was robert burns?", "entity_name": "Robert Burns", "entity_mid": "m.09482"}
+{"query": "who did the voice of darth vader in episode 3?", "entity_name": "Darth Vader", "entity_mid": "m.0f2y0"}
+{"query": "who fought in the gulf war 1991?", "entity_name": "Gulf War", "entity_mid": "m.018w0j"}
+{"query": "who plays london tipton in suite life on deck?", "entity_name": "The Suite Life on Deck", "entity_mid": "m.03mj4jm"}
+{"query": "what team did david beckham play for in 2011?", "entity_name": "David Beckham", "entity_mid": "m.02d9k"}
+{"query": "where did francisco coronado come from?", "entity_name": "Francisco V\u00e1zquez de Coronado", "entity_mid": "m.0jgb2"}
+{"query": "what all does google now do?", "entity_name": "Google", "entity_mid": "m.045c7b"}
+{"query": "what language does egyptian people speak?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what are abraham sons names?", "entity_name": "Abraham", "entity_mid": "m.0pwb"}
+{"query": "who wrote the jana gana mana?", "entity_name": "Jana Gana Mana", "entity_mid": "m.0fl44"}
+{"query": "what type of cancer did gilda radner die of?", "entity_name": "Gilda Radner", "entity_mid": "m.0mj4n"}
+{"query": "who plays juni cortez?", "entity_name": "Juni Cortez", "entity_mid": "m.02ql73"}
+{"query": "what was lucille ball?", "entity_name": "Lucille Ball", "entity_mid": "m.04nw9"}
+{"query": "who inspired obama?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "who is michael j fox wife?", "entity_name": "Michael J. Fox", "entity_mid": "m.0hz_1"}
+{"query": "where did dolly parton grow up?", "entity_name": "Dolly Parton", "entity_mid": "m.02f1c"}
+{"query": "what type of books did agatha christie wrote?", "entity_name": "Agatha Christie", "entity_mid": "m.0ldd"}
+{"query": "what are the four main languages spoken in spain?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "where is the nra headquarters located?", "entity_name": "National Rifle Association", "entity_mid": "m.0j6f9"}
+{"query": "who is gimli's father in the hobbit?", "entity_name": "Gimli", "entity_mid": "m.0h34n"}
+{"query": "who developed the tcp ip reference model?", "entity_name": "Transmission Control Protocol", "entity_mid": "m.07hzk"}
+{"query": "what college did albert einstein go to?", "entity_name": "Albert Einstein", "entity_mid": "m.0jcx"}
+{"query": "what team does jordan own?", "entity_name": "Jordan", "entity_mid": "m.03__y"}
+{"query": "who is the state governor of tennessee?", "entity_name": "Tennessee", "entity_mid": "m.07h34"}
+{"query": "what do portuguese people speak?", "entity_name": "Portugal", "entity_mid": "m.05r4w"}
+{"query": "what language does cuba speak?", "entity_name": "Cuba", "entity_mid": "m.0d04z6"}
+{"query": "what are the sights to see in madrid?", "entity_name": "Madrid", "entity_mid": "m.056_y"}
+{"query": "what instruments did louis armstrong play?", "entity_name": "Louis Armstrong", "entity_mid": "m.04n32"}
+{"query": "what year was george w bush elected?", "entity_name": "George W. Bush", "entity_mid": "m.09b6zr"}
+{"query": "what time zone am i in california?", "entity_name": "California", "entity_mid": "m.01n7q"}
+{"query": "where is mission san buenaventura located?", "entity_name": "Mission San Buenaventura", "entity_mid": "m.0gbsb"}
+{"query": "what time in hilo hawaii?", "entity_name": "Hilo", "entity_mid": "m.0r_ch"}
+{"query": "where did rudolf virchow conduct his research?", "entity_name": "Rudolf Virchow", "entity_mid": "m.011kz4"}
+{"query": "what university did gordon brown attend?", "entity_name": "Gordon Brown", "entity_mid": "m.03f77"}
+{"query": "what countries does greece share borders with?", "entity_name": "Greece", "entity_mid": "m.035qy"}
+{"query": "what year did the seahawks win the superbowl?", "entity_name": "Seattle Seahawks", "entity_mid": "m.070xg"}
+{"query": "what did stephen hawking become famous for?", "entity_name": "Stephen Hawking", "entity_mid": "m.01tdnyh"}
+{"query": "who plays donna noble?", "entity_name": "Donna Noble", "entity_mid": "m.02pcf8b"}
+{"query": "what was dr seuss education?", "entity_name": "Theodore Lesieg", "entity_mid": "m.02g3w"}
+{"query": "where did queensland get its name from?", "entity_name": "Queensland", "entity_mid": "m.0g39h"}
+{"query": "what document did james madison write?", "entity_name": "James Madison", "entity_mid": "m.0424m"}
+{"query": "what are the three official languages of belgium?", "entity_name": "Belgium", "entity_mid": "m.0154j"}
+{"query": "who played bilbo in lord of the rings?", "entity_name": "Old Bilbo", "entity_mid": "m.0g6z1"}
+{"query": "what airport do you fly into to get to destin fl?", "entity_name": "Destin", "entity_mid": "m.0rp8x"}
+{"query": "what do you call members of the senate?", "entity_name": "United States Senate", "entity_mid": "m.07t58"}
+{"query": "what countries are part of the baltic?", "entity_name": "Baltic states", "entity_mid": "m.019tjm"}
+{"query": "what team does colin kaepernick play for?", "entity_name": "Colin Kaepernick", "entity_mid": "m.03cm6b3"}
+{"query": "where did joe flacco attend college?", "entity_name": "Joe Flacco", "entity_mid": "m.03d4lw7"}
+{"query": "who is emma stone father?", "entity_name": "Emma Stone", "entity_mid": "m.09yhzs"}
+{"query": "where was theodore roosevelt buried?", "entity_name": "Theodore Roosevelt", "entity_mid": "m.07hyk"}
+{"query": "what artistic movement did henri matisse belong to?", "entity_name": "Henri Matisse", "entity_mid": "m.0gct_"}
+{"query": "where the missouri river ends?", "entity_name": "Missouri River", "entity_mid": "m.04ykz"}
+{"query": "what type of currency do they use in thailand?", "entity_name": "Thailand", "entity_mid": "m.07f1x"}
+{"query": "who is khloe kardashian's husband?", "entity_name": "Khlo\u00e9 Kardashian", "entity_mid": "m.043p2f2"}
+{"query": "what state does romney live in?", "entity_name": "Mitt Romney", "entity_mid": "m.0271_s"}
+{"query": "what type of government does france use?", "entity_name": "France", "entity_mid": "m.0f8l9c"}
+{"query": "who rules denmark right now?", "entity_name": "Denmark", "entity_mid": "m.0k6nt"}
+{"query": "what did stephen hawking study?", "entity_name": "Stephen Hawking", "entity_mid": "m.01tdnyh"}
+{"query": "where did bristol palin go to school?", "entity_name": "Bristol Palin", "entity_mid": "m.04jg1kh"}
+{"query": "what region of the world is egypt associated with?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what did dr. seuss do?", "entity_name": "Theodore Lesieg", "entity_mid": "m.02g3w"}
+{"query": "where did drew brees go to college wikianswers?", "entity_name": "Drew Brees", "entity_mid": "m.030bdd"}
+{"query": "what school did ben roethlisberger go to?", "entity_name": "Ben Roethlisberger", "entity_mid": "m.033t8w"}
+{"query": "where did the iroquois indians come from?", "entity_name": "Iroquois", "entity_mid": "m.03x1x"}
+{"query": "what kind of guitar did george harrison use?", "entity_name": "George Harrison", "entity_mid": "m.03bnv"}
+{"query": "what language do navajo people speak?", "entity_name": "Navajo people", "entity_mid": "m.08k5jg"}
+{"query": "what places make up new england?", "entity_name": "New England", "entity_mid": "m.029jpy"}
+{"query": "what type of government does iraq have now?", "entity_name": "Iraq", "entity_mid": "m.0d05q4"}
+{"query": "where was the vietnam war location?", "entity_name": "Vietnam War", "entity_mid": "m.07_nf"}
+{"query": "who did gerald ford select as his vice president when he became president?", "entity_name": "Gerald Ford", "entity_mid": "m.0c_md_"}
+{"query": "what is the currency used in italy?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "what is the capital of modern egypt?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what school did sir ernest rutherford go to?", "entity_name": "Ernest Rutherford", "entity_mid": "m.02m7r"}
+{"query": "what position does brandon roy play?", "entity_name": "Brandon Roy", "entity_mid": "m.0cf_p_"}
+{"query": "where is harvard university?", "entity_name": "Harvard University", "entity_mid": "m.03ksy"}
+{"query": "where is laos in world map?", "entity_name": "Laos", "entity_mid": "m.04hhv"}
+{"query": "where is tyrese gibson from?", "entity_name": "Tyrese Gibson", "entity_mid": "m.01l1b90"}
+{"query": "what countries are near italy?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "which states does the colorado river run through?", "entity_name": "Colorado River", "entity_mid": "m.018qjq"}
+{"query": "who did scarlett johansson date?", "entity_name": "Scarlett Johansson", "entity_mid": "m.02114t"}
+{"query": "which continents were part of the roman empire?", "entity_name": "Roman Empire", "entity_mid": "m.06cmp"}
+{"query": "where was elvis costello born?", "entity_name": "Elvis Costello", "entity_mid": "m.02vr7"}
+{"query": "where are the gobi desert located on a map?", "entity_name": "Gobi Desert", "entity_mid": "m.0ff0d"}
+{"query": "what type of government does the us follow?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "in which continent is germany?", "entity_name": "Germany", "entity_mid": "m.0345h"}
+{"query": "what language turkey people speak?", "entity_name": "Turkey", "entity_mid": "m.01znc_"}
+{"query": "who does jeremy lin play for?", "entity_name": "Jeremy Lin", "entity_mid": "m.09k72lh"}
+{"query": "where is the seychelles on world map?", "entity_name": "Seychelles", "entity_mid": "m.06sw9"}
+{"query": "where did william morris go to college?", "entity_name": "William Morris", "entity_mid": "m.08304"}
+{"query": "what state is mount st. helens in?", "entity_name": "Mount St. Helens", "entity_mid": "m.094xz"}
+{"query": "who is jimmy savile?", "entity_name": "Jimmy Savile", "entity_mid": "m.01wg0w"}
+{"query": "where were the seneca indians located?", "entity_name": "Seneca people", "entity_mid": "m.028yj0"}
+{"query": "when did florida marlins join mlb?", "entity_name": "Miami Marlins", "entity_mid": "m.02__x"}
+{"query": "what countries have spanish as the national language?", "entity_name": "Spanish Language", "entity_mid": "m.06nm1"}
+{"query": "what to see in phoenix arizona?", "entity_name": "Phoenix", "entity_mid": "m.0d35y"}
+{"query": "what countries does the panama canal go through?", "entity_name": "Panama Canal", "entity_mid": "m.066rl"}
+{"query": "what is charlie chaplin famous for?", "entity_name": "Charlie Chaplin", "entity_mid": "m.01lc5"}
+{"query": "what did fred durst do?", "entity_name": "Fred Durst", "entity_mid": "m.01q7cb_"}
+{"query": "who did the chargers draft in 2011?", "entity_name": "San Diego Chargers", "entity_mid": "m.06rpd"}
+{"query": "where do american bulldogs originate from?", "entity_name": "American Bulldog", "entity_mid": "m.02z_05"}
+{"query": "what colleges did albert einstein teach at?", "entity_name": "Albert Einstein", "entity_mid": "m.0jcx"}
+{"query": "who plays the voice of brian on family guy?", "entity_name": "Family Guy", "entity_mid": "m.019nnl"}
+{"query": "where did george w bush live as a child?", "entity_name": "George W. Bush", "entity_mid": "m.09b6zr"}
+{"query": "what year was the first miss america pageant held?", "entity_name": "Miss America", "entity_mid": "m.01bk3n"}
+{"query": "what was nikola tesla inventions?", "entity_name": "Nikola Tesla", "entity_mid": "m.05d1y"}
+{"query": "where did flemish people come from?", "entity_name": "Flemish people", "entity_mid": "m.018hlv"}
+{"query": "what state new york city belong to?", "entity_name": "New York City", "entity_mid": "m.02_286"}
+{"query": "what was the cause of death for bruce lee?", "entity_name": "Bruce Lee", "entity_mid": "m.099d4"}
+{"query": "what type of government does usa follow?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "what type of currency do they use in england?", "entity_name": "England", "entity_mid": "m.02jx1"}
+{"query": "where was benjamin franklin educated?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "what countries included in the uk?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "what countries in the world speak chinese?", "entity_name": "Chinese language", "entity_mid": "m.01r2l"}
+{"query": "where obama went to school?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "what is the primary language of china?", "entity_name": "China", "entity_mid": "m.0d05w3"}
+{"query": "who was the soviet leader during world war ii?", "entity_name": "Soviet Union", "entity_mid": "m.05vz3zq"}
+{"query": "which of the following does australia export the most?", "entity_name": "Australia", "entity_mid": "m.0chghy"}
+{"query": "where was the city of david?", "entity_name": "City of David", "entity_mid": "m.0j3w2"}
+{"query": "what is cindy sherman known for?", "entity_name": "Cindy Sherman", "entity_mid": "m.074g02"}
+{"query": "what tv shows did shawnee smith play in?", "entity_name": "Shawnee Smith", "entity_mid": "m.06t3nj"}
+{"query": "what does australia use for currency?", "entity_name": "Australia", "entity_mid": "m.0chghy"}
+{"query": "which airport to fly into rome?", "entity_name": "Rome", "entity_mid": "m.06c62"}
+{"query": "what is there to do for fun in kansas city?", "entity_name": "Kansas City", "entity_mid": "m.04f_d"}
+{"query": "where was martin luther king jr raised?", "entity_name": "Martin Luther King, Jr.", "entity_mid": "m.051cc"}
+{"query": "what year was lebron james rookie season?", "entity_name": "LeBron James", "entity_mid": "m.01jz6d"}
+{"query": "where does delaware river start?", "entity_name": "Delaware River", "entity_mid": "m.0dtzd"}
+{"query": "what kind of monarchy does japan have?", "entity_name": "Japan", "entity_mid": "m.03_3d"}
+{"query": "where did mitt romney's parents come from?", "entity_name": "Mitt Romney", "entity_mid": "m.0271_s"}
+{"query": "when did michael jordan return to the nba?", "entity_name": "Michael Jordan", "entity_mid": "m.054c1"}
+{"query": "where was mission san rafael located?", "entity_name": "Mission San Rafael Arc\u00e1ngel", "entity_mid": "m.0gbyx"}
+{"query": "who was esther's husband?", "entity_name": "Esther", "entity_mid": "m.02pn7"}
+{"query": "who's dating claire danes?", "entity_name": "Claire Danes", "entity_mid": "m.01gq0b"}
+{"query": "what county is st paul va in?", "entity_name": "St. Paul", "entity_mid": "m.013nm2"}
+{"query": "what type of sports do japanese play?", "entity_name": "Japan", "entity_mid": "m.03_3d"}
+{"query": "which countries share a border with russia?", "entity_name": "Russia", "entity_mid": "m.06bnz"}
+{"query": "where did the latin language originate from?", "entity_name": "Latin Language", "entity_mid": "m.04h9h"}
+{"query": "what school did karl benz go to?", "entity_name": "Karl Benz", "entity_mid": "m.049xg"}
+{"query": "what movies has carmen electra been in?", "entity_name": "Carmen Electra", "entity_mid": "m.01lbp"}
+{"query": "when do world war ii end?", "entity_name": "World War II", "entity_mid": "m.081pw"}
+{"query": "where did morgan freeman graduate?", "entity_name": "Morgan Freeman", "entity_mid": "m.055c8"}
+{"query": "who was carolus linnaeus?", "entity_name": "Carl Linnaeus", "entity_mid": "m.01lwd"}
+{"query": "what type of government does germany have now?", "entity_name": "Germany", "entity_mid": "m.0345h"}
+{"query": "what kind of government does libya have today?", "entity_name": "Libya", "entity_mid": "m.04gqr"}
+{"query": "what time zone is anaheim california?", "entity_name": "Anaheim", "entity_mid": "m.0k9p4"}
+{"query": "what year did the orioles go to the world series?", "entity_name": "Baltimore Orioles", "entity_mid": "m.01d6g"}
+{"query": "who is sir francis bacon?", "entity_name": "Francis Bacon", "entity_mid": "m.030dr"}
+{"query": "what were amelia earhart's achievements?", "entity_name": "Amelia Earhart", "entity_mid": "m.0lngf"}
+{"query": "what are the official colors of the dallas cowboys?", "entity_name": "Dallas Cowboys", "entity_mid": "m.02896"}
+{"query": "where did margaret hoover go to college?", "entity_name": "Margaret Hoover", "entity_mid": "m.03m6921"}
+{"query": "what is jamie oliver children names?", "entity_name": "Jamie Oliver", "entity_mid": "m.01myph"}
+{"query": "where does bradley walsh live?", "entity_name": "Bradley Walsh", "entity_mid": "m.05h48b"}
+{"query": "who is the head coach of inter milan?", "entity_name": "Inter Milan", "entity_mid": "m.03x6m"}
+{"query": "who did reese witherspoon get married to?", "entity_name": "Reese Witherspoon", "entity_mid": "m.0n6f8"}
+{"query": "what kind of money should i take to costa rica?", "entity_name": "Costa Rica", "entity_mid": "m.01p8s"}
+{"query": "where is the ufc headquarters?", "entity_name": "Ultimate Fighting Championship", "entity_mid": "m.016r3g"}
+{"query": "who plays captain kirk in star trek?", "entity_name": "James T. Kirk", "entity_mid": "m.0crtw"}
+{"query": "who does albert pujols play for 2012?", "entity_name": "Albert Pujols", "entity_mid": "m.035gcb"}
+{"query": "what kind of government is sweden?", "entity_name": "Sweden", "entity_mid": "m.0d0vqn"}
+{"query": "where was country singer george jones born?", "entity_name": "George Jones", "entity_mid": "m.01hb9p"}
+{"query": "what did shakespeare become famous for?", "entity_name": "William Shakespeare", "entity_mid": "m.081k8"}
+{"query": "where does russia import from?", "entity_name": "Russia", "entity_mid": "m.06bnz"}
+{"query": "what is the money of switzerland called?", "entity_name": "Switzerland", "entity_mid": "m.06mzp"}
+{"query": "what do people in australia speak?", "entity_name": "Australia", "entity_mid": "m.0chghy"}
+{"query": "what has ian somerhalder acted in?", "entity_name": "Ian Somerhalder", "entity_mid": "m.044mvs"}
+{"query": "what movies did ron howard director?", "entity_name": "Ron Howard", "entity_mid": "m.0g2lq"}
+{"query": "what did gerald r ford die from?", "entity_name": "Gerald Ford", "entity_mid": "m.0c_md_"}
+{"query": "what two continents is turkey on?", "entity_name": "Turkey", "entity_mid": "m.01znc_"}
+{"query": "where did kevin love go to college?", "entity_name": "Kevin Love", "entity_mid": "m.0fxgqw"}
+{"query": "what type of government was formed when italy unified?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "where was the temple of karnak built?", "entity_name": "Karnak", "entity_mid": "m.014wy4"}
+{"query": "what movies did morgan freeman star in?", "entity_name": "Morgan Freeman", "entity_mid": "m.055c8"}
+{"query": "who did john kennedy have affairs with?", "entity_name": "John F. Kennedy", "entity_mid": "m.0d3k14"}
+{"query": "what type of money to take to cuba?", "entity_name": "Cuba", "entity_mid": "m.0d04z6"}
+{"query": "what currency should you take to morocco?", "entity_name": "Morocco", "entity_mid": "m.04wgh"}
+{"query": "who is mary mcleod bethune for kids?", "entity_name": "Mary McLeod Bethune", "entity_mid": "m.025rv7p"}
+{"query": "what do they call money in japan?", "entity_name": "Japan", "entity_mid": "m.03_3d"}
+{"query": "what nationality is mother teresa?", "entity_name": "Mother Teresa", "entity_mid": "m.01yv6p"}
+{"query": "who is richard pryor son?", "entity_name": "Richard Pryor", "entity_mid": "m.01hmk9"}
+{"query": "what countries share borders with spain?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "what countries have english as their official language?", "entity_name": "English Language", "entity_mid": "m.02h40lc"}
+{"query": "what international organizations is china part of?", "entity_name": "China", "entity_mid": "m.0d05w3"}
+{"query": "what county is west st paul in?", "entity_name": "West St. Paul", "entity_mid": "m.0vz77"}
+{"query": "who does donnie wahlberg play in the sixth sense?", "entity_name": "Donnie Wahlberg", "entity_mid": "m.02stwg"}
+{"query": "what did baron de montesquie influence?", "entity_name": "Montesquieu", "entity_mid": "m.0f9wd"}
+{"query": "who did carlos boozer play for?", "entity_name": "Carlos Boozer", "entity_mid": "m.03l2cs"}
+{"query": "who owns the portland press herald?", "entity_name": "Portland Press Herald", "entity_mid": "m.0852w8"}
+{"query": "what did albert speer design?", "entity_name": "Albert Speer", "entity_mid": "m.0l4t"}
+{"query": "who does jordan palmer play for?", "entity_name": "Jordan Palmer", "entity_mid": "m.0d9wsx"}
+{"query": "what art movement did leonardo da vinci belong to?", "entity_name": "Leonardo da Vinci", "entity_mid": "m.04lg6"}
+{"query": "what airport is near arlington tx?", "entity_name": "Arlington", "entity_mid": "m.0nqph"}
+{"query": "what team does heskey play for?", "entity_name": "Emile Heskey", "entity_mid": "m.01yj16"}
+{"query": "where did emperor hirohito live?", "entity_name": "Hirohito", "entity_mid": "m.02sm8"}
+{"query": "what to do and see in vienna austria?", "entity_name": "Vienna", "entity_mid": "m.0fhp9"}
+{"query": "when did conflict start in ireland?", "entity_name": "Ireland", "entity_mid": "m.012wgb"}
+{"query": "what is there to do in peoria illinois?", "entity_name": "Peoria", "entity_mid": "m.0sf9_"}
+{"query": "what language do british speak?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "what makes elvis presley famous?", "entity_name": "Elvis Presley", "entity_mid": "m.02jq1"}
+{"query": "what language do people speak in the netherlands?", "entity_name": "Netherlands", "entity_mid": "m.059j2"}
+{"query": "what are the major languages spoken in greece?", "entity_name": "Greece", "entity_mid": "m.035qy"}
+{"query": "what type of artist is henri matisse?", "entity_name": "Henri Matisse", "entity_mid": "m.0gct_"}
+{"query": "what was the first book charles dickens wrote?", "entity_name": "Charles Dickens", "entity_mid": "m.01v9724"}
+{"query": "what books did agatha christie wrote?", "entity_name": "Agatha Christie", "entity_mid": "m.0ldd"}
+{"query": "what school did michael jordan attend?", "entity_name": "Michael Jordan", "entity_mid": "m.054c1"}
+{"query": "what year does hitler die?", "entity_name": "Adolf Hitler", "entity_mid": "m.07_m9_"}
+{"query": "where is mount st helens volcano?", "entity_name": "Mount St. Helens", "entity_mid": "m.094xz"}
+{"query": "what shows are shot in new york?", "entity_name": "New York City", "entity_mid": "m.02_286"}
+{"query": "what book did tupac write?", "entity_name": "Tupac Shakur", "entity_mid": "m.07pzc"}
+{"query": "what language do chinese people write in?", "entity_name": "Chinese language", "entity_mid": "m.01r2l"}
+{"query": "what was robert burns famous for?", "entity_name": "Robert Burns", "entity_mid": "m.09482"}
+{"query": "when did william mckinley died?", "entity_name": "William McKinley", "entity_mid": "m.083p7"}
+{"query": "how deep is lake merritt oakland?", "entity_name": "Lake Merritt", "entity_mid": "m.02_sf_"}
+{"query": "what are the important holidays of islam?", "entity_name": "Islam", "entity_mid": "m.0flw86"}
+{"query": "what type of music did claude debussy play?", "entity_name": "Claude Debussy", "entity_mid": "m.01vvy"}
+{"query": "when was the last time the toronto maple leafs were in the stanley cup finals?", "entity_name": "Stanley Cup Finals", "entity_mid": "m.0cc8tt9"}
+{"query": "what team is hank baskett on 2010?", "entity_name": "Hank Baskett", "entity_mid": "m.0d81yf"}
+{"query": "what are the two official languages of paraguay?", "entity_name": "Paraguay", "entity_mid": "m.05v10"}
+{"query": "what state is the steelers from?", "entity_name": "Pittsburgh Steelers", "entity_mid": "m.05tfm"}
+{"query": "what college did sir isaac newton go to?", "entity_name": "Isaac Newton", "entity_mid": "m.03s9v"}
+{"query": "what are the school colors for harvard university?", "entity_name": "Harvard University", "entity_mid": "m.03ksy"}
+{"query": "where is the university of the rockies located?", "entity_name": "University of the Rockies", "entity_mid": "m.03wbmx5"}
+{"query": "what disease does robin roberts have?", "entity_name": "Robin Roberts", "entity_mid": "m.06k3_t"}
+{"query": "what was the capital city of the east roman empire?", "entity_name": "Byzantine Empire", "entity_mid": "m.017cw"}
+{"query": "who plays edward scissorhands?", "entity_name": "Edward Scissorhands", "entity_mid": "m.01s3vk"}
+{"query": "what does joey jordison play in slipknot?", "entity_name": "Joey Jordison", "entity_mid": "m.01wt4wc"}
+{"query": "what kind of language does turkey speak?", "entity_name": "Turkey", "entity_mid": "m.01znc_"}
+{"query": "what was lebron james first team?", "entity_name": "LeBron James", "entity_mid": "m.01jz6d"}
+{"query": "who fought the battle of gettysburg?", "entity_name": "Battle of Gettysburg", "entity_mid": "m.01jnm"}
+{"query": "who is the coach of the sf giants?", "entity_name": "San Francisco Giants", "entity_mid": "m.0713r"}
+{"query": "who was the first president of the afl?", "entity_name": "American Football League", "entity_mid": "m.0ysy"}
+{"query": "where did giuliana rancic grow up?", "entity_name": "Giuliana Rancic", "entity_mid": "m.0b0tw3"}
+{"query": "what are the major cities in ukraine?", "entity_name": "Ukraine", "entity_mid": "m.07t21"}
+{"query": "who does brian dawkins play for 2011?", "entity_name": "Brian Dawkins", "entity_mid": "m.04m4p5"}
+{"query": "what movies did tupac star in?", "entity_name": "Tupac Shakur", "entity_mid": "m.07pzc"}
+{"query": "what form of currency does china have?", "entity_name": "China", "entity_mid": "m.0d05w3"}
+{"query": "who plays kenneth?", "entity_name": "Kenneth Parcell", "entity_mid": "m.0272jt5"}
+{"query": "what league are the indianapolis colts in?", "entity_name": "Indianapolis Colts", "entity_mid": "m.03wnh"}
+{"query": "what country did magellan represent?", "entity_name": "Ferdinand Magellan", "entity_mid": "m.033ky"}
+{"query": "where is perpignan located?", "entity_name": "Perpignan", "entity_mid": "m.09nkq"}
+{"query": "who did kim richards marry?", "entity_name": "Kim Richards", "entity_mid": "m.08l257"}
+{"query": "what happened in bosnia in the 90s?", "entity_name": "Bosnia and Herzegovina", "entity_mid": "m.0166b"}
+{"query": "when's the last time the steelers won the superbowl?", "entity_name": "Pittsburgh Steelers", "entity_mid": "m.05tfm"}
+{"query": "where english is spoken?", "entity_name": "English Language", "entity_mid": "m.02h40lc"}
+{"query": "where is giza pyramids located?", "entity_name": "Giza Necropolis", "entity_mid": "m.07s6gb8"}
+{"query": "what is the zip code for midland tx?", "entity_name": "Midland", "entity_mid": "m.013n2h"}
+{"query": "what states make up the midwest us?", "entity_name": "Midwestern United States", "entity_mid": "m.0q76g"}
+{"query": "what instruments does justin bieber use?", "entity_name": "Justin Bieber", "entity_mid": "m.06w2sn5"}
+{"query": "what language does australians speak?", "entity_name": "Australia", "entity_mid": "m.0chghy"}
+{"query": "who did annie oakley married?", "entity_name": "Annie Oakley", "entity_mid": "m.0237np"}
+{"query": "who has played lex luthor?", "entity_name": "Alexander Luthor", "entity_mid": "m.04q78"}
+{"query": "where does the zambezi river start?", "entity_name": "Zambezi", "entity_mid": "m.0p_70"}
+{"query": "what is the nigeria time?", "entity_name": "Nigeria", "entity_mid": "m.05cgv"}
+{"query": "where did they find jenni rivera's body?", "entity_name": "Jenni Rivera", "entity_mid": "m.01v5vfj"}
+{"query": "what university did romney graduated from?", "entity_name": "Mitt Romney", "entity_mid": "m.0271_s"}
+{"query": "where is the time zone line in south dakota?", "entity_name": "South Dakota", "entity_mid": "m.06mz5"}
+{"query": "where is jason mraz from?", "entity_name": "Jason Mraz", "entity_mid": "m.0259r0"}
+{"query": "what killed john bonham?", "entity_name": "John Bonham", "entity_mid": "m.015pvx"}
+{"query": "what industry does walmart operate in?", "entity_name": "Walmart", "entity_mid": "m.0841v"}
+{"query": "what county is texarkana arkansas in?", "entity_name": "Texarkana, Arkansas", "entity_mid": "m.0d9z_y"}
+{"query": "what music period did beethoven live in?", "entity_name": "Ludwig van Beethoven", "entity_mid": "m.04k15"}
+{"query": "what did laura ingalls wilder wrote?", "entity_name": "Laura Ingalls Wilder", "entity_mid": "m.01bt87"}
+{"query": "what type of government system does italy have?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "what did john irving wrote?", "entity_name": "John Irving", "entity_mid": "m.042v2"}
+{"query": "what is the national flower of hawaii?", "entity_name": "Hawaii", "entity_mid": "m.03gh4"}
+{"query": "what did alice paul accomplish?", "entity_name": "Alice Stokes Paul", "entity_mid": "m.02lp71"}
+{"query": "what languages do they speak in costa rica?", "entity_name": "Costa Rica", "entity_mid": "m.01p8s"}
+{"query": "where did hank marvin come from?", "entity_name": "Hank Marvin", "entity_mid": "m.01x2fx0"}
+{"query": "when did chipper jones get drafted?", "entity_name": "Chipper Jones", "entity_mid": "m.0crdkb"}
+{"query": "what part did winona ryder play in star trek?", "entity_name": "Winona Ryder", "entity_mid": "m.086sj"}
+{"query": "where did jovan belcher kill himself?", "entity_name": "Jovan Belcher", "entity_mid": "m.055d_1d"}
+{"query": "where did clay matthews go to school?", "entity_name": "Clay Matthews III", "entity_mid": "m.04zy7pw"}
+{"query": "what time is it in texas houston right now?", "entity_name": "Houston", "entity_mid": "m.03l2n"}
+{"query": "who is princess leia in star wars?", "entity_name": "Leia Organa", "entity_mid": "m.0ddqw"}
+{"query": "what is the political structure of china?", "entity_name": "China", "entity_mid": "m.0d05w3"}
+{"query": "what is new york city airport?", "entity_name": "New York City", "entity_mid": "m.02_286"}
+{"query": "what language brazil speak?", "entity_name": "Brazil", "entity_mid": "m.015fr"}
+{"query": "who played obi wan in episode 2?", "entity_name": "Obi-Wan Kenobi", "entity_mid": "m.0fkm7"}
+{"query": "where did venus williams come from?", "entity_name": "Venus Williams", "entity_mid": "m.016cff"}
+{"query": "what currency is used in panama?", "entity_name": "Panama", "entity_mid": "m.05qx1"}
+{"query": "where does the zambezi river originate?", "entity_name": "Zambezi", "entity_mid": "m.0p_70"}
+{"query": "what team did ronaldo play for in 2003?", "entity_name": "Ronaldo", "entity_mid": "m.0hhqw"}
+{"query": "where does robin williams live 2011?", "entity_name": "Robin Williams", "entity_mid": "m.0dzf_"}
+{"query": "who played jacob black in twilight?", "entity_name": "Twilight", "entity_mid": "m.03nm_fh"}
+{"query": "when was president john adams elected?", "entity_name": "John Adams", "entity_mid": "m.03_js"}
+{"query": "which airport to fly into in buenos aires?", "entity_name": "Buenos Aires", "entity_mid": "m.01ly5m"}
+{"query": "what team did adrian peterson play for in college?", "entity_name": "Adrian Peterson", "entity_mid": "m.095xk6"}
+{"query": "where does name pennsylvania come from?", "entity_name": "Pennsylvania", "entity_mid": "m.05tbn"}
+{"query": "what kind of money do they use in germany?", "entity_name": "Germany", "entity_mid": "m.0345h"}
+{"query": "what language does australia use?", "entity_name": "Australia", "entity_mid": "m.0chghy"}
+{"query": "who did veronica lake mary?", "entity_name": "Veronica Lake", "entity_mid": "m.01xm6k"}
+{"query": "who did sir francis drake marry?", "entity_name": "Francis Drake", "entity_mid": "m.031t2"}
+{"query": "who plays stephanie plum in one for the money?", "entity_name": "One for the Money", "entity_mid": "m.0g5sxb4"}
+{"query": "what did the ancient romans speak?", "entity_name": "Roman Empire", "entity_mid": "m.06cmp"}
+{"query": "what does ringo sing?", "entity_name": "Ringo Starr", "entity_mid": "m.01vrnsk"}
+{"query": "where was st. lucy born?", "entity_name": "Saint Lucy", "entity_mid": "m.01r0zd"}
+{"query": "what type of government does australia have?", "entity_name": "Australia", "entity_mid": "m.0chghy"}
+{"query": "who was the father of king george vi?", "entity_name": "George VI", "entity_mid": "m.0cm83"}
+{"query": "what is the zip code for trenton?", "entity_name": "Trenton", "entity_mid": "m.0fvxz"}
+{"query": "what has ashley greene been in?", "entity_name": "Ashley Greene", "entity_mid": "m.03w9v1d"}
+{"query": "where did al qaeda attack?", "entity_name": "Al-Qaeda", "entity_mid": "m.0v74"}
+{"query": "what language is spoken in switzerland?", "entity_name": "Switzerland", "entity_mid": "m.06mzp"}
+{"query": "who was philip in acts chapter 8?", "entity_name": "Philip the Apostle", "entity_mid": "m.012tjy"}
+{"query": "what the time zone in england?", "entity_name": "England", "entity_mid": "m.02jx1"}
+{"query": "what is the best currency to take to turkey?", "entity_name": "Turkey", "entity_mid": "m.01znc_"}
+{"query": "what system of government is practiced in nigeria?", "entity_name": "Nigeria", "entity_mid": "m.05cgv"}
+{"query": "who were mary shelley?", "entity_name": "Mary Shelley", "entity_mid": "m.04_by"}
+{"query": "what language do most australians speak?", "entity_name": "Australia", "entity_mid": "m.0chghy"}
+{"query": "where is denmark situated?", "entity_name": "Denmark", "entity_mid": "m.0k6nt"}
+{"query": "where was teddy roosevelt's house?", "entity_name": "Theodore Roosevelt", "entity_mid": "m.07hyk"}
+{"query": "what is the government system of malaysia?", "entity_name": "Malaysia", "entity_mid": "m.09pmkv"}
+{"query": "what do people speak in canada?", "entity_name": "Canada", "entity_mid": "m.0d060g"}
+{"query": "what type of money do they use in costa rica?", "entity_name": "Costa Rica", "entity_mid": "m.01p8s"}
+{"query": "what timezone is nashville tn?", "entity_name": "Nashville", "entity_mid": "m.05jbn"}
+{"query": "who was anakin skywalker?", "entity_name": "Anakin Skywalker", "entity_mid": "g.125_cxx77"}
+{"query": "where did adolf hitler die?", "entity_name": "Adolf Hitler", "entity_mid": "m.07_m9_"}
+{"query": "what is the largest nation in europe?", "entity_name": "Europe", "entity_mid": "m.02j9z"}
+{"query": "where was the first gulf war fought?", "entity_name": "Gulf War", "entity_mid": "m.018w0j"}
+{"query": "who are the senators of virginia 2013?", "entity_name": "Virginia", "entity_mid": "m.07z1m"}
+{"query": "what band was george clinton in?", "entity_name": "George Clinton", "entity_mid": "m.0ql36"}
+{"query": "what country borders slovakia?", "entity_name": "Slovakia", "entity_mid": "m.06npd"}
+{"query": "what was james garfield most known for?", "entity_name": "James A. Garfield", "entity_mid": "m.0b22w"}
+{"query": "where did paula deen go to school?", "entity_name": "Paula Deen", "entity_mid": "m.05dpch"}
+{"query": "where does robert irvine come from?", "entity_name": "Robert Irvine", "entity_mid": "m.0272y2y"}
+{"query": "what style of music does michael jackson perform?", "entity_name": "Michael Jackson", "entity_mid": "m.09889g"}
+{"query": "what does david beckham play?", "entity_name": "David Beckham", "entity_mid": "m.02d9k"}
+{"query": "what does julian lennon do?", "entity_name": "Julian Lennon", "entity_mid": "m.01k4jy3"}
+{"query": "what is the milwaukee brewers mascot?", "entity_name": "Milwaukee Brewers", "entity_mid": "m.051vz"}
+{"query": "what is the second biggest state in the united states?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "what has charlie hunnam been in?", "entity_name": "Charlie Hunnam", "entity_mid": "m.057yk8"}
+{"query": "what are all the movies taylor swift has been in?", "entity_name": "Taylor Swift", "entity_mid": "m.0dl567"}
+{"query": "what college did brett favre?", "entity_name": "Brett Favre", "entity_mid": "m.0cv72h"}
+{"query": "where did alex chilton die?", "entity_name": "Alex Chilton", "entity_mid": "m.024bwn"}
+{"query": "what college did martin luther king jr go to?", "entity_name": "Martin Luther King, Jr.", "entity_mid": "m.051cc"}
+{"query": "what kind of cancer did farrah fawcett die of?", "entity_name": "Farrah Fawcett", "entity_mid": "m.01j851"}
+{"query": "who is michael j fox's wife?", "entity_name": "Michael J. Fox", "entity_mid": "m.0hz_1"}
+{"query": "what money do i use in costa rica?", "entity_name": "Costa Rica", "entity_mid": "m.01p8s"}
+{"query": "what guitar did joe walsh play?", "entity_name": "Joe Walsh", "entity_mid": "m.01sb5r"}
+{"query": "what are the official languages of the eu?", "entity_name": "European Union", "entity_mid": "m.0_6t_z8"}
+{"query": "what is ryan seacrest radio show?", "entity_name": "Ryan Seacrest", "entity_mid": "m.02b9g4"}
+{"query": "what language do most italians speak?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "what money do they use in spain?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "what did drew barrymore go to rehab for?", "entity_name": "Drew Barrymore", "entity_mid": "m.026c1"}
+{"query": "when is saint george day celebrated?", "entity_name": "St George's Day", "entity_mid": "m.05474b"}
+{"query": "what government did the roman empire have?", "entity_name": "Roman Empire", "entity_mid": "m.06cmp"}
+{"query": "what instrument did robin gibb play?", "entity_name": "Robin Gibb", "entity_mid": "m.0137hn"}
+{"query": "who voiced darth vader?", "entity_name": "Darth Vader", "entity_mid": "m.0f2y0"}
+{"query": "when was abe lincoln president?", "entity_name": "Abraham Lincoln", "entity_mid": "m.0gzh"}
+{"query": "where are the texas rangers playing?", "entity_name": "Texas Rangers", "entity_mid": "m.07l8x"}
+{"query": "what is arkansas state capitol?", "entity_name": "Arkansas State Capitol", "entity_mid": "m.05yzfg"}
+{"query": "what is the zip code for nogales az?", "entity_name": "Nogales", "entity_mid": "m.0qqw9"}
+{"query": "when did michael vick start playing for the eagles?", "entity_name": "Michael Vick", "entity_mid": "m.027f42"}
+{"query": "what is william taft famous for?", "entity_name": "William Howard Taft", "entity_mid": "m.083pr"}
+{"query": "where did robin cook die?", "entity_name": "Robin Cook", "entity_mid": "m.019jy5"}
+{"query": "where did melba beals live?", "entity_name": "Melba Pattillo Beals", "entity_mid": "m.08s1bb"}
+{"query": "who is louisiana state senator?", "entity_name": "Louisiana", "entity_mid": "m.04ly1"}
+{"query": "what are the 7 countries that are part of central america?", "entity_name": "Central America", "entity_mid": "m.01tzh"}
+{"query": "where did derek fisher go to college?", "entity_name": "Derek Fisher", "entity_mid": "m.04lvwk"}
+{"query": "who was kobe bryant drafted by?", "entity_name": "Kobe Bryant", "entity_mid": "m.01kmd4"}
+{"query": "where are the new orleans hornets moving to?", "entity_name": "Charlotte Hornets", "entity_mid": "m.01k8vh"}
+{"query": "what language does algerian people speak?", "entity_name": "Algeria", "entity_mid": "m.0h3y"}
+{"query": "where was anne boleyn executed?", "entity_name": "Anne Boleyn", "entity_mid": "m.09sxn"}
+{"query": "what did galileo do to become famous?", "entity_name": "Galileo Galilei", "entity_mid": "m.034ks"}
+{"query": "what school did martin luther king jr received his doctorate degree from?", "entity_name": "Martin Luther King, Jr.", "entity_mid": "m.051cc"}
+{"query": "where buddha come from?", "entity_name": "Gautama Buddha", "entity_mid": "m.015k7"}
+{"query": "what did king henry viii rule?", "entity_name": "Henry VIII of England", "entity_mid": "m.03p77"}
+{"query": "what type of cancer did larry hagman have?", "entity_name": "Larry Hagman", "entity_mid": "m.01vyv9"}
+{"query": "what wars did robert e lee served in?", "entity_name": "Robert E. Lee", "entity_mid": "m.06f5j"}
+{"query": "what russian language called?", "entity_name": "Russia", "entity_mid": "m.06bnz"}
+{"query": "who is in charge of libya now?", "entity_name": "Libya", "entity_mid": "m.04gqr"}
+{"query": "when did shays rebellion start?", "entity_name": "Shays' Rebellion", "entity_mid": "m.0x284"}
+{"query": "what kind of disease does montel williams have?", "entity_name": "Montel Williams", "entity_mid": "m.018ptv"}
+{"query": "when is the last time the ravens won a superbowl?", "entity_name": "Baltimore Ravens", "entity_mid": "m.01ct6"}
+{"query": "where did kansas city royals come from?", "entity_name": "Kansas City Royals", "entity_mid": "m.049n7"}
+{"query": "what style of music does john mayer play?", "entity_name": "John Mayer", "entity_mid": "m.01s21dg"}
+{"query": "what inventions did thomas edison invent list?", "entity_name": "Thomas Edison", "entity_mid": "m.07bty"}
+{"query": "where did djokovic come from?", "entity_name": "Novak Djokovic", "entity_mid": "m.09n70c"}
+{"query": "what part of the country is new england?", "entity_name": "New England", "entity_mid": "m.029jpy"}
+{"query": "what money to take to turkey?", "entity_name": "Turkey", "entity_mid": "m.01znc_"}
+{"query": "what kind of music did jimi hendrix play?", "entity_name": "Jimi Hendrix", "entity_mid": "m.01vsy3q"}
+{"query": "what degrees did obama get in college?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "who were alexander graham bell's siblings?", "entity_name": "Alexander Graham Bell", "entity_mid": "m.0k70"}
+{"query": "when did liverpool fc last win the champions league?", "entity_name": "Liverpool F.C.", "entity_mid": "m.04ltf"}
+{"query": "who played jeannie?", "entity_name": "I Dream of Jeannie", "entity_mid": "m.025m13"}
+{"query": "where was st peter killed?", "entity_name": "Saint Peter", "entity_mid": "m.071wp"}
+{"query": "who does jeremy shockey play for in 2012?", "entity_name": "Jeremy Shockey", "entity_mid": "m.076ltd"}
+{"query": "what college did deion sanders jr go to?", "entity_name": "Deion Sanders", "entity_mid": "m.03n69x"}
+{"query": "when did the battle of alamo start?", "entity_name": "Battle of the Alamo", "entity_mid": "m.02hztm"}
+{"query": "what were the names of henry viii's three children?", "entity_name": "Henry VIII of England", "entity_mid": "m.03p77"}
+{"query": "what was queen elizabeth ii childhood nickname?", "entity_name": "Elizabeth II", "entity_mid": "m.0d1_f"}
+{"query": "where did tim tebow grow up?", "entity_name": "Tim Tebow", "entity_mid": "m.0g7km1"}
+{"query": "where is chesapeake bay bridge?", "entity_name": "Chesapeake Bay Bridge", "entity_mid": "m.03xksb"}
+{"query": "who played victoria barkley?", "entity_name": "The Big Valley", "entity_mid": "m.030k44"}
+{"query": "what countries have german as the official language?", "entity_name": "German Language", "entity_mid": "m.04306rv"}
+{"query": "where did the taliban began?", "entity_name": "Taliban", "entity_mid": "m.07jqh"}
+{"query": "who plays elena gilbert on vampire diaries?", "entity_name": "Elena Gilbert", "entity_mid": "m.0790rw8"}
+{"query": "what does the missouri river bisect?", "entity_name": "Missouri River", "entity_mid": "m.04ykz"}
+{"query": "what nationality is taylor lautner jacob black?", "entity_name": "Taylor Lautner", "entity_mid": "m.07ldhs"}
+{"query": "what animal represents california?", "entity_name": "California", "entity_mid": "m.01n7q"}
+{"query": "what company does nike own?", "entity_name": "Nike, Inc.", "entity_mid": "m.0lwkh"}
+{"query": "what language do colombian people speak?", "entity_name": "Colombia", "entity_mid": "m.01ls2"}
+{"query": "what year did ray allen join the nba?", "entity_name": "Ray Allen", "entity_mid": "m.03lh3v"}
+{"query": "what is claire danes famous for?", "entity_name": "Claire Danes", "entity_mid": "m.01gq0b"}
+{"query": "what county is san antonio in?", "entity_name": "San Antonio", "entity_mid": "m.0f2w0"}
+{"query": "what characters does matt stone do?", "entity_name": "Matt Stone", "entity_mid": "m.01_x6d"}
+{"query": "what timezone is the state of michigan and?", "entity_name": "Michigan", "entity_mid": "m.04rrx"}
+{"query": "what type of government did soviet union have?", "entity_name": "Soviet Union", "entity_mid": "m.05vz3zq"}
+{"query": "what languages are there in japan?", "entity_name": "Japan", "entity_mid": "m.03_3d"}
+{"query": "what year did the bulls get rodman?", "entity_name": "Dennis Rodman", "entity_mid": "m.01ztgm"}
+{"query": "who was saint paul the apostle?", "entity_name": "Paul the Apostle", "entity_mid": "m.060nc"}
+{"query": "where did vince scully go to college?", "entity_name": "Vin Scully", "entity_mid": "m.038gnr"}
+{"query": "where does princess leia live?", "entity_name": "Leia Organa", "entity_mid": "m.0ddqw"}
+{"query": "what famous people are from el salvador?", "entity_name": "El Salvador", "entity_mid": "m.02k8k"}
+{"query": "what type of art did leonardo da vinci make?", "entity_name": "Leonardo da Vinci", "entity_mid": "m.04lg6"}
+{"query": "where did mary bell live?", "entity_name": "Mary Bell", "entity_mid": "m.01j324"}
+{"query": "who did kimberly williams marry?", "entity_name": "Kimberly Williams-Paisley", "entity_mid": "m.05d5mc"}
+{"query": "what other movies has ryan gosling been in?", "entity_name": "Ryan Gosling", "entity_mid": "m.03m6_z"}
+{"query": "what political party does julia gillard belong to?", "entity_name": "Julia Gillard", "entity_mid": "m.02kx9r"}
+{"query": "what is the currency of germany now?", "entity_name": "Germany", "entity_mid": "m.0345h"}
+{"query": "what kind of hispanic is selena gomez?", "entity_name": "Selena Gomez", "entity_mid": "m.0gs6vr"}
+{"query": "who did denise van outen married?", "entity_name": "Denise van Outen", "entity_mid": "m.02_75_"}
+{"query": "what are egyptian money called?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what is the zip code for wyoming michigan?", "entity_name": "Wyoming", "entity_mid": "m.0v9xs"}
+{"query": "who is the president of costa rica in 2012?", "entity_name": "Costa Rica", "entity_mid": "m.01p8s"}
+{"query": "where did martin luther king got shot at?", "entity_name": "Martin Luther King, Jr.", "entity_mid": "m.051cc"}
+{"query": "who wrote the gospel according to john?", "entity_name": "Gospel of John", "entity_mid": "m.038vs"}
+{"query": "what form of government is the uk?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "what currency does the czech republic use now?", "entity_name": "Czech Republic", "entity_mid": "m.01mjq"}
+{"query": "what age did william penn get married?", "entity_name": "William Penn", "entity_mid": "m.083qr"}
+{"query": "what was firefox programmed in?", "entity_name": "Firefox", "entity_mid": "m.01dyhm"}
+{"query": "what government does new zealand have?", "entity_name": "New Zealand", "entity_mid": "m.0ctw_b"}
+{"query": "where is isthmus of panama located on the map?", "entity_name": "Isthmus of Panama", "entity_mid": "m.04zwft"}
+{"query": "what is the capital of republic of ireland?", "entity_name": "Republic of Ireland", "entity_mid": "m.03rt9"}
+{"query": "what has kristen stewart acted in?", "entity_name": "Kristen Stewart", "entity_mid": "m.07swvb"}
+{"query": "what did dr josef mengele do?", "entity_name": "Josef Mengele", "entity_mid": "m.0lhsd"}
+{"query": "what kind of language does egypt speak?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "who are the senators of hawaii 2012?", "entity_name": "Hawaii", "entity_mid": "m.03gh4"}
+{"query": "what form of government does north korea have?", "entity_name": "North Korea", "entity_mid": "m.05b7q"}
+{"query": "where did robert kardashian go to college?", "entity_name": "Robert Kardashian", "entity_mid": "m.01x48v"}
+{"query": "what county is st james city fl in?", "entity_name": "St. James City", "entity_mid": "m.0rmlp"}
+{"query": "what did the akkadian empire include?", "entity_name": "Akkadian Empire", "entity_mid": "m.0q_7"}
+{"query": "after how many years are the olympic games held?", "entity_name": "Olympic Games", "entity_mid": "m.05nd_"}
+{"query": "what system of government does guyana have?", "entity_name": "Guyana", "entity_mid": "m.034m8"}
+{"query": "what team did aguero play for?", "entity_name": "Sergio Ag\u00fcero", "entity_mid": "m.099vgz"}
+{"query": "who is the president of the european union 2012?", "entity_name": "European Union", "entity_mid": "m.0_6t_z8"}
+{"query": "what year was kenya moore crowned miss usa?", "entity_name": "Miss USA", "entity_mid": "m.03lp2g"}
+{"query": "what sort of government does nigeria have?", "entity_name": "Nigeria", "entity_mid": "m.05cgv"}
+{"query": "where does chef ina garten live?", "entity_name": "Ina Garten", "entity_mid": "m.0315fl"}
+{"query": "when the atlanta braves won the world series?", "entity_name": "Atlanta Braves", "entity_mid": "m.0x2p"}
+{"query": "what kind of language do they speak in iran?", "entity_name": "Iran", "entity_mid": "m.03shp"}
+{"query": "what was the first language spoken in spain?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "what did scott joplin play?", "entity_name": "Scott Joplin", "entity_mid": "m.07b69"}
+{"query": "what school did miley cyrus?", "entity_name": "Miley Cyrus", "entity_mid": "m.0bdxs5"}
+{"query": "what language do most people speak in afghanistan?", "entity_name": "Afghanistan", "entity_mid": "m.0jdd"}
+{"query": "who is the prime minister of jamaica west indies?", "entity_name": "Prime Minister of Jamaica", "entity_mid": "m.01sm66"}
+{"query": "what role did paul mccartney play in the beatles?", "entity_name": "Paul McCartney", "entity_mid": "m.03j24kf"}
+{"query": "when did juventus win the champions league?", "entity_name": "Juventus F.C.", "entity_mid": "m.045xx"}
+{"query": "who is robin roberts father?", "entity_name": "Robin Roberts", "entity_mid": "m.06k3_t"}
+{"query": "what is the capital of australia victoria state?", "entity_name": "Victoria", "entity_mid": "m.0chgr2"}
+{"query": "where is french spoken most?", "entity_name": "French", "entity_mid": "m.064_8sq"}
+{"query": "what team is reggie bush on 2011?", "entity_name": "Reggie Bush", "entity_mid": "m.05cb70"}
+{"query": "what highschool did emily osment go to?", "entity_name": "Emily Osment", "entity_mid": "m.03xnq9_"}
+{"query": "what currency should i take to mexico?", "entity_name": "Mexico", "entity_mid": "m.0b90_r"}
+{"query": "who is thor heyerdahl?", "entity_name": "Thor Heyerdahl", "entity_mid": "m.09fcm"}
+{"query": "where did troy aikman play football?", "entity_name": "Troy Aikman", "entity_mid": "m.0dr5g9"}
+{"query": "who played cletus hogg?", "entity_name": "Cletus Hogg", "entity_mid": "m.0bxcc6"}
+{"query": "who won fa cup 1976?", "entity_name": "FA Cup", "entity_mid": "m.02_p0"}
+{"query": "what did general robert e lee die from?", "entity_name": "Robert E. Lee", "entity_mid": "m.06f5j"}
+{"query": "what style of art did henri matisse do?", "entity_name": "Henri Matisse", "entity_mid": "m.0gct_"}
+{"query": "who plays chuck bass in gossip girl?", "entity_name": "Chuck Bass", "entity_mid": "m.0g0jx7"}
+{"query": "what countries have territories in oceania?", "entity_name": "Oceania", "entity_mid": "m.05nrg"}
+{"query": "what county is st. louis park in?", "entity_name": "St. Louis Park", "entity_mid": "m.0xdhj"}
+{"query": "what is the political system of south africa?", "entity_name": "South Africa", "entity_mid": "m.0hzlz"}
+{"query": "what language group does germany belong to?", "entity_name": "German Language", "entity_mid": "m.04306rv"}
+{"query": "what timezone is tucson arizona in right now?", "entity_name": "Tucson", "entity_mid": "m.0fr0t"}
+{"query": "when was lucy lawless born?", "entity_name": "Lucy Lawless", "entity_mid": "m.01r9md"}
+{"query": "which political party does barack obama represent?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "what kind of leukemia did jill clayburgh have?", "entity_name": "Jill Clayburgh", "entity_mid": "m.01gw8b"}
+{"query": "what is the name of the book hitler wrote in jail?", "entity_name": "Adolf Hitler", "entity_mid": "m.07_m9_"}
+{"query": "what is there to see in sydney australia?", "entity_name": "Sydney", "entity_mid": "m.06y57"}
+{"query": "where was marilyn monroe found dead?", "entity_name": "Marilyn Monroe", "entity_mid": "m.04wqr"}
+{"query": "what states does the sierra nevada run through?", "entity_name": "Sierra Nevada", "entity_mid": "m.0db94"}
+{"query": "what language is spoken in greek?", "entity_name": "Greece", "entity_mid": "m.035qy"}
+{"query": "what is the name of the speaker of the house of representatives now 2011?", "entity_name": "Speaker of the United States House of Representatives", "entity_mid": "m.0cgqx"}
+{"query": "who plays stanley hudson?", "entity_name": "Stanley Hudson", "entity_mid": "m.026nx7k"}
+{"query": "what record label is kelly clarkson signed with?", "entity_name": "Kelly Clarkson", "entity_mid": "m.025ldg"}
+{"query": "where does tim roth come from?", "entity_name": "Tim Roth", "entity_mid": "m.021yzs"}
+{"query": "what currency should you take to vietnam?", "entity_name": "Vietnam", "entity_mid": "m.01crd5"}
+{"query": "who did roger federer married?", "entity_name": "Roger Federer", "entity_mid": "m.01my95"}
+{"query": "what kind of money do i need in costa rica?", "entity_name": "Costa Rica", "entity_mid": "m.01p8s"}
+{"query": "what is the name of the capital of belgium?", "entity_name": "Belgium", "entity_mid": "m.0154j"}
+{"query": "what kind of government does japan have now?", "entity_name": "Japan", "entity_mid": "m.03_3d"}
+{"query": "what pieces of music did claude debussy compose?", "entity_name": "Claude Debussy", "entity_mid": "m.01vvy"}
+{"query": "who was selena gomez in barney and friends?", "entity_name": "Selena Gomez", "entity_mid": "m.0gs6vr"}
+{"query": "who plays caesar flickerman in the hunger games?", "entity_name": "The Hunger Games", "entity_mid": "m.0gkz15s"}
+{"query": "where did the gettysburg address?", "entity_name": "Gettysburg Address", "entity_mid": "m.037yx"}
+{"query": "what was the name of jfk's brothers?", "entity_name": "John F. Kennedy", "entity_mid": "m.0d3k14"}
+{"query": "who was tupac signed to?", "entity_name": "Tupac Shakur", "entity_mid": "m.07pzc"}
+{"query": "what was augustus caesar famous for?", "entity_name": "Augustus", "entity_mid": "m.0ngg"}
+{"query": "what language does colombia?", "entity_name": "Colombia", "entity_mid": "m.01ls2"}
+{"query": "what is the zip code for schenectady new york?", "entity_name": "Schenectady", "entity_mid": "m.0fdpd"}
+{"query": "who was president in 1988 in the united states?", "entity_name": "President of the United States", "entity_mid": "m.060d2"}
+{"query": "who owns google 2012?", "entity_name": "Google", "entity_mid": "m.045c7b"}
+{"query": "what drink did john pemberton create?", "entity_name": "John Pemberton", "entity_mid": "m.0h24w"}
+{"query": "what position did stanley matthews play?", "entity_name": "Sir Stanley Matthews", "entity_mid": "m.013s6x"}
+{"query": "what was bonnie prince charlie full name?", "entity_name": "Charles Edward Stuart", "entity_mid": "m.0fssd"}
+{"query": "who makes the voice of stewie griffin?", "entity_name": "Stewie Griffin", "entity_mid": "m.02m29p"}
+{"query": "who is angelina jolie mom and dad?", "entity_name": "Angelina Jolie", "entity_mid": "m.0f4vbz"}
+{"query": "who is the governor of indiana 2009?", "entity_name": "Governor of Indiana", "entity_mid": "m.04f_xd8"}
+{"query": "who brad pitt has dated?", "entity_name": "Brad Pitt", "entity_mid": "m.0c6qh"}
+{"query": "what party does barack obama belong to?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "what is san francisco zip code?", "entity_name": "San Francisco", "entity_mid": "m.0d6lp"}
+{"query": "who has stephen ireland played for?", "entity_name": "Stephen Ireland", "entity_mid": "m.07_mj3"}
+{"query": "where did john mayer go to college?", "entity_name": "John Mayer", "entity_mid": "m.01s21dg"}
+{"query": "what celebrities has brody jenner dated?", "entity_name": "Brody Jenner", "entity_mid": "m.026_dq6"}
+{"query": "what is malaysian currency?", "entity_name": "Malaysia", "entity_mid": "m.09pmkv"}
+{"query": "who owns volkswagen car company?", "entity_name": "Volkswagen Passenger Cars", "entity_mid": "m.07ywl"}
+{"query": "which is the main train station in rome?", "entity_name": "Rome", "entity_mid": "m.06c62"}
+{"query": "what did steve mcnair died from?", "entity_name": "Steve McNair", "entity_mid": "m.02zmx0"}
+{"query": "who is the newly elected governor of california?", "entity_name": "California", "entity_mid": "m.01n7q"}
+{"query": "who plays roxanne in ghost rider?", "entity_name": "Ghost Rider", "entity_mid": "m.06yykb"}
+{"query": "where is the sony ericsson company?", "entity_name": "Sony Mobile Communications", "entity_mid": "m.01spxd"}
+{"query": "what kind of currency does the dominican republic have?", "entity_name": "Dominican Republic", "entity_mid": "m.027rn"}
+{"query": "what to do this weekend in manchester with kids?", "entity_name": "Manchester", "entity_mid": "m.052bw"}
+{"query": "what sport is popular in italy?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "where is the main headquarters of google?", "entity_name": "Google", "entity_mid": "m.045c7b"}
+{"query": "what was jesse owens education?", "entity_name": "Jesse Owens", "entity_mid": "m.0cmr3"}
+{"query": "where does carlos santana live?", "entity_name": "Carlos Santana", "entity_mid": "m.01304j"}
+{"query": "what is the new movie john carter about?", "entity_name": "John Carter", "entity_mid": "m.03whyr"}
+{"query": "what countries does nafta include?", "entity_name": "North American Free Trade Agreement", "entity_mid": "m.05jj_"}
+{"query": "what county is houston tx in?", "entity_name": "Houston", "entity_mid": "m.03l2n"}
+{"query": "where do the seattle seahawks play?", "entity_name": "Seattle Seahawks", "entity_mid": "m.070xg"}
+{"query": "who does michael keaton play in cars?", "entity_name": "Michael Keaton", "entity_mid": "m.01j5ws"}
+{"query": "where is the riviera casino?", "entity_name": "Riviera", "entity_mid": "m.05vv6l"}
+{"query": "what is the holy book of the buddhist religion?", "entity_name": "Buddhism", "entity_mid": "m.092bf5"}
+{"query": "who became president when henry harrison died?", "entity_name": "William Henry Harrison", "entity_mid": "m.0835q"}
+{"query": "where did richard arkwright grow up?", "entity_name": "Richard Arkwright", "entity_mid": "m.01tglh"}
+{"query": "what other books did louis sachar write?", "entity_name": "Louis Sachar", "entity_mid": "m.01bq8d"}
+{"query": "when did roth ira originate?", "entity_name": "Roth IRA", "entity_mid": "m.023_lp"}
+{"query": "who does the voice for darth vader?", "entity_name": "Darth Vader", "entity_mid": "m.0f2y0"}
+{"query": "what did thomas malthus do?", "entity_name": "Thomas Robert Malthus", "entity_mid": "m.07r3d"}
+{"query": "what is the zip code for newark california?", "entity_name": "Newark", "entity_mid": "m.0qx_6"}
+{"query": "what states share a border with tennessee?", "entity_name": "Tennessee", "entity_mid": "m.07h34"}
+{"query": "what war did the us lose the most soldiers?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "what kind of government is egypt?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what musical instruments does justin bieber play?", "entity_name": "Justin Bieber", "entity_mid": "m.06w2sn5"}
+{"query": "where do john lennon die?", "entity_name": "John Lennon", "entity_mid": "m.01vsl3_"}
+{"query": "what is the current time in bangalore india?", "entity_name": "Bangalore", "entity_mid": "m.09c17"}
+{"query": "what language do people from greece speak?", "entity_name": "Greece", "entity_mid": "m.035qy"}
+{"query": "where is the phillies spring training stadium?", "entity_name": "Philadelphia Phillies", "entity_mid": "m.05xvj"}
+{"query": "what movies does matt dallas play in?", "entity_name": "Matt Dallas", "entity_mid": "m.0dfyw6"}
+{"query": "where is harley davidson corporate headquarters?", "entity_name": "Harley-Davidson Motor Company", "entity_mid": "m.03ny2"}
+{"query": "where was the ottoman empire based?", "entity_name": "Ottoman Empire", "entity_mid": "m.05kyr"}
+{"query": "where was bin laden found and killed?", "entity_name": "Osama bin Laden", "entity_mid": "m.05mg9"}
+{"query": "what are the names of harry potter movies in order?", "entity_name": "Harry Potter", "entity_mid": "m.02676m4"}
+{"query": "what did pamela courson die from?", "entity_name": "Pamela Courson", "entity_mid": "m.07ms9g"}
+{"query": "what did dr jack kevorkian do?", "entity_name": "Jack Kevorkian", "entity_mid": "m.01ctkj"}
+{"query": "what does bolivia border?", "entity_name": "Bolivia", "entity_mid": "m.0165v"}
+{"query": "who does nolan ryan play for?", "entity_name": "Nolan Ryan", "entity_mid": "m.0hctb"}
+{"query": "what country does justin bieber come from?", "entity_name": "Justin Bieber", "entity_mid": "m.06w2sn5"}
+{"query": "what is the head judge of the supreme court called?", "entity_name": "Supreme Court of the United States", "entity_mid": "m.07sz1"}
+{"query": "who was frida kahlo influenced by?", "entity_name": "Frida Kahlo", "entity_mid": "m.015k04"}
+{"query": "where is taylor swift from?", "entity_name": "Taylor Swift", "entity_mid": "m.0dl567"}
+{"query": "what type of religion does argentina have?", "entity_name": "Argentina", "entity_mid": "m.0jgd"}
+{"query": "when is the last time the giants won the world series?", "entity_name": "San Francisco Giants", "entity_mid": "m.0713r"}
+{"query": "what is the main language used in china?", "entity_name": "China", "entity_mid": "m.0d05w3"}
+{"query": "where did the battle of waterloo occur?", "entity_name": "Battle of Waterloo", "entity_mid": "m.01dcm"}
+{"query": "who did vladimir lenin marry?", "entity_name": "Vladimir Lenin", "entity_mid": "m.05wh0sh"}
+{"query": "what year did the baltimore ravens win superbowl?", "entity_name": "Baltimore Ravens", "entity_mid": "m.01ct6"}
+{"query": "what team does cristiano ronaldo play for 2011?", "entity_name": "Cristiano Ronaldo", "entity_mid": "m.02xt6q"}
+{"query": "what is money called in italy?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "where did theodor schwann study?", "entity_name": "Theodor Schwann", "entity_mid": "m.040000"}
+{"query": "who are the virginia senators 2013?", "entity_name": "Virginia", "entity_mid": "m.07z1m"}
+{"query": "what was dr seuss's real name?", "entity_name": "Theodore Lesieg", "entity_mid": "m.02g3w"}
+{"query": "what countries are members of the security council?", "entity_name": "United Nations Security Council", "entity_mid": "m.07vnr"}
+{"query": "where are the nordic countries?", "entity_name": "Nordic countries", "entity_mid": "m.0140mf"}
+{"query": "what country sponsored ferdinand magellan?", "entity_name": "Ferdinand Magellan", "entity_mid": "m.033ky"}
+{"query": "what did vera ellen die from?", "entity_name": "Vera-Ellen", "entity_mid": "m.022sm6"}
+{"query": "what is the capital of modern day egypt?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what province is toronto in ( 7 letters )?", "entity_name": "Toronto", "entity_mid": "m.0h7h6"}
+{"query": "what is the currency of brazil now?", "entity_name": "Brazil", "entity_mid": "m.015fr"}
+{"query": "what types of art did andy warhol do?", "entity_name": "Andy Warhol", "entity_mid": "m.0kc6"}
+{"query": "what other states border florida?", "entity_name": "Florida", "entity_mid": "m.02xry"}
+{"query": "what are the predominant religions in russia?", "entity_name": "Russia", "entity_mid": "m.06bnz"}
+{"query": "who will coach carolina panthers in 2013?", "entity_name": "Carolina Panthers", "entity_mid": "m.01y3c"}
+{"query": "where did louis sachar grow up?", "entity_name": "Louis Sachar", "entity_mid": "m.01bq8d"}
+{"query": "who plays marshall eriksen?", "entity_name": "Marshall Eriksen", "entity_mid": "m.02vkmj9"}
+{"query": "what to do for fun in houston?", "entity_name": "Houston", "entity_mid": "m.03l2n"}
+{"query": "where did otto frank go to college?", "entity_name": "Otto Frank", "entity_mid": "m.01c9j8"}
+{"query": "what else has jennifer lawrence played in?", "entity_name": "Jennifer Lawrence", "entity_mid": "m.02x0dzw"}
+{"query": "who is the governor of pennsylvania state now?", "entity_name": "Pennsylvania", "entity_mid": "m.05tbn"}
+{"query": "where is ancient phoenician?", "entity_name": "Phoenicia", "entity_mid": "m.0617q"}
+{"query": "where does the celtics practice?", "entity_name": "Boston Celtics", "entity_mid": "m.0bwjj"}
+{"query": "where bin laden got killed?", "entity_name": "Osama bin Laden", "entity_mid": "m.05mg9"}
+{"query": "where does toronto get its water from?", "entity_name": "Toronto", "entity_mid": "m.0h7h6"}
+{"query": "what language do people from bosnia speak?", "entity_name": "Bosnia and Herzegovina", "entity_mid": "m.0166b"}
+{"query": "where did hugo chavez go to school?", "entity_name": "Hugo Ch\u00e1vez", "entity_mid": "m.0d1b_"}
+{"query": "who does japan import from?", "entity_name": "Japan", "entity_mid": "m.03_3d"}
+{"query": "what is the name of sonia gandhi daughter?", "entity_name": "Sonia Gandhi", "entity_mid": "m.016rwt"}
+{"query": "who do islamic people pray to?", "entity_name": "Islam", "entity_mid": "m.0flw86"}
+{"query": "where was mary todd lincoln from?", "entity_name": "Mary Todd Lincoln", "entity_mid": "m.01ypl0"}
+{"query": "where did charles darwin die?", "entity_name": "Charles Darwin", "entity_mid": "m.01lwx"}
+{"query": "what movies does nick cannon play in?", "entity_name": "Nick Cannon", "entity_mid": "m.01d1st"}
+{"query": "when did the big earthquake hit san francisco?", "entity_name": "1906 San Francisco earthquake", "entity_mid": "m.01f6rm"}
+{"query": "who was king george vi married to?", "entity_name": "George VI", "entity_mid": "m.0cm83"}
+{"query": "where was jesus after he died on the cross?", "entity_name": "Jesus Christ", "entity_mid": "m.045m1_"}
+{"query": "who is sir james dyson?", "entity_name": "James Dyson", "entity_mid": "m.0209vm"}
+{"query": "who voiced darth vader in the original star wars movies?", "entity_name": "Darth Vader", "entity_mid": "m.0f2y0"}
+{"query": "what high school did maya angelou go to?", "entity_name": "Maya Angelou", "entity_mid": "m.01q9b9"}
+{"query": "what 5 countries border switzerland?", "entity_name": "Switzerland", "entity_mid": "m.06mzp"}
+{"query": "what country did benito mussolini govern?", "entity_name": "Benito Mussolini", "entity_mid": "m.0177g"}
+{"query": "who was the leader of the first communist party of china?", "entity_name": "Communist Party of China", "entity_mid": "m.02189"}
+{"query": "what did miles davis died of?", "entity_name": "Miles Davis", "entity_mid": "m.053yx"}
+{"query": "what is the zip code for azle texas?", "entity_name": "Azle", "entity_mid": "m.013n59"}
+{"query": "what date did sally pearson won gold?", "entity_name": "Sally Pearson", "entity_mid": "m.0287hgn"}
+{"query": "when did the detroit pistons last win the championship?", "entity_name": "Detroit Pistons", "entity_mid": "m.0jm8l"}
+{"query": "when did the philadelphia flyers win the cup?", "entity_name": "Philadelphia Flyers", "entity_mid": "m.0hn2q"}
+{"query": "who is number 22 for the dallas cowboys?", "entity_name": "Dallas Cowboys", "entity_mid": "m.02896"}
+{"query": "what county is st paul nc in?", "entity_name": "St. Pauls", "entity_mid": "m.0yk9v"}
+{"query": "where is olympic national park wa?", "entity_name": "Olympic National Park", "entity_mid": "m.015nrn"}
+{"query": "where did nat turner 1831 rebellion occur?", "entity_name": "Nat Turner's slave rebellion", "entity_mid": "m.0h5d0t"}
+{"query": "who would play luke skywalker?", "entity_name": "Luke Skywalker", "entity_mid": "m.0f1bg"}
+{"query": "where turkish people originate?", "entity_name": "Turkish people", "entity_mid": "m.0hb7h_z"}
+{"query": "what awards gary paulsen won?", "entity_name": "Gary Paulsen", "entity_mid": "m.04fpcx"}
+{"query": "where did alexander graham bell die?", "entity_name": "Alexander Graham Bell", "entity_mid": "m.0k70"}
+{"query": "what year did the golden state warriors win their first nba championship?", "entity_name": "Golden State Warriors", "entity_mid": "m.0jmj7"}
+{"query": "what currency should i take to turkey?", "entity_name": "Turkey", "entity_mid": "m.01znc_"}
+{"query": "what countries are in the uk yahoo?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "what superbowl did the baltimore ravens win?", "entity_name": "Baltimore Ravens", "entity_mid": "m.01ct6"}
+{"query": "what is the language of russia s spoken?", "entity_name": "Russia", "entity_mid": "m.06bnz"}
+{"query": "who is the king of cambodia now?", "entity_name": "Cambodia", "entity_mid": "m.01xbgx"}
+{"query": "who are serena williams parents?", "entity_name": "Serena Williams", "entity_mid": "m.015z4j"}
+{"query": "what schools did sir isaac newton go to?", "entity_name": "Isaac Newton", "entity_mid": "m.03s9v"}
+{"query": "what was the cause of death for huell howser?", "entity_name": "Huell Howser", "entity_mid": "m.02kddt"}
+{"query": "what books are written by suzanne collins?", "entity_name": "Suzanne Collins", "entity_mid": "m.0bpd5z"}
+{"query": "what countries does england border?", "entity_name": "England", "entity_mid": "m.02jx1"}
+{"query": "what team did messi play for in 2010?", "entity_name": "Lionel Messi", "entity_mid": "m.06qjgc"}
+{"query": "what time zone is greensburg indiana?", "entity_name": "Greensburg", "entity_mid": "m.0skw_"}
+{"query": "who plays voldemort?", "entity_name": "Lord Voldemort", "entity_mid": "m.0c8lv"}
+{"query": "what colleges did harper lee attend?", "entity_name": "Harper Lee", "entity_mid": "m.01bq7x"}
+{"query": "who founded the kkk?", "entity_name": "Ku Klux Klan", "entity_mid": "m.048qr"}
+{"query": "what jobs did john adams have before he was president?", "entity_name": "John Adams", "entity_mid": "m.03_js"}
+{"query": "what year did super mario bros 2 come out?", "entity_name": "Super Mario Bros. 2", "entity_mid": "m.011v_m"}
+{"query": "what political party did andrew johnson belong to?", "entity_name": "Andrew Johnson", "entity_mid": "m.0rmg"}
+{"query": "where was osama bin laden killed?", "entity_name": "Osama bin Laden", "entity_mid": "m.05mg9"}
+{"query": "where are people who speak arabic from?", "entity_name": "Arabic Language", "entity_mid": "m.0jzc"}
+{"query": "who was queen elizabeth ii mom?", "entity_name": "Elizabeth II", "entity_mid": "m.0d1_f"}
+{"query": "what type of art did pablo picasso paint?", "entity_name": "Pablo Picasso", "entity_mid": "m.060_7"}
+{"query": "what is ella fitzgerald parents name?", "entity_name": "Ella Fitzgerald", "entity_mid": "m.0d9xq"}
+{"query": "who is anne hathaway parents?", "entity_name": "Anne Hathaway", "entity_mid": "m.02vntj"}
+{"query": "who does don draper gets engaged to?", "entity_name": "Don Draper", "entity_mid": "m.02s9q_4"}
+{"query": "what was van halen first album?", "entity_name": "Van Halen", "entity_mid": "m.0ycfj"}
+{"query": "what political system did spain have?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "what are the supreme court cases?", "entity_name": "Supreme Court of the United States", "entity_mid": "m.07sz1"}
+{"query": "what is penn state's main campus?", "entity_name": "Pennsylvania State University", "entity_mid": "m.04hgpt"}
+{"query": "what country does alaska belong to?", "entity_name": "Alaska", "entity_mid": "m.0hjy"}
+{"query": "where is kansas city?", "entity_name": "Kansas City", "entity_mid": "m.04f_d"}
+{"query": "what was pink floyd's first album?", "entity_name": "Pink Floyd", "entity_mid": "m.01wv9xn"}
+{"query": "who did granville t. woods married?", "entity_name": "Granville Woods", "entity_mid": "m.0236mx"}
+{"query": "what language did the sioux indians speak?", "entity_name": "Sioux", "entity_mid": "m.0fk3s"}
+{"query": "what are some famous people from el salvador?", "entity_name": "El Salvador", "entity_mid": "m.02k8k"}
+{"query": "who did brett gardner play for in 2008?", "entity_name": "Brett Gardner", "entity_mid": "m.02px3wt"}
+{"query": "who plays dwight in the office?", "entity_name": "The Office", "entity_mid": "m.08jgk1"}
+{"query": "what county is san diego ca?", "entity_name": "San Diego", "entity_mid": "m.071vr"}
+{"query": "who is the miami dolphins quarterback?", "entity_name": "Miami Dolphins", "entity_mid": "m.04vn5"}
+{"query": "where did anne frank go to school?", "entity_name": "Anne Frank", "entity_mid": "m.03d9rk"}
+{"query": "what basketball player is married to monica?", "entity_name": "Monica", "entity_mid": "m.01fs85"}
+{"query": "what did hitler use to kill himself?", "entity_name": "Adolf Hitler", "entity_mid": "m.07_m9_"}
+{"query": "what do people speak in germany?", "entity_name": "Germany", "entity_mid": "m.0345h"}
+{"query": "when is the last time the denver broncos won the superbowl?", "entity_name": "Denver Broncos", "entity_mid": "m.0289q"}
+{"query": "where was caesar when he was stabbed?", "entity_name": "Julius Caesar", "entity_mid": "m.041wm"}
+{"query": "what style of music did bessie smith perform?", "entity_name": "Bessie Smith", "entity_mid": "m.0dq47"}
+{"query": "what team did jackie robinson?", "entity_name": "Jackie Robinson", "entity_mid": "m.0443c"}
+{"query": "what time zone is chicago in right now?", "entity_name": "Chicago", "entity_mid": "m.01_d4"}
+{"query": "what two countries make up the dominican republic?", "entity_name": "Dominican Republic", "entity_mid": "m.027rn"}
+{"query": "who was the vice president under ronald reagan?", "entity_name": "Ronald Reagan", "entity_mid": "m.06c0j"}
+{"query": "where do the chicago white sox play home games?", "entity_name": "Chicago White Sox", "entity_mid": "m.01slc"}
+{"query": "what part did jeff conaway play in grease?", "entity_name": "Jeff Conaway", "entity_mid": "m.026mzh"}
+{"query": "what book did benjamin franklin published?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "what currency to take to barbados?", "entity_name": "Barbados", "entity_mid": "m.0162v"}
+{"query": "where did they get the name stanley cup?", "entity_name": "Stanley Cup", "entity_mid": "m.0hn79"}
+{"query": "what is the zip code of syracuse ny?", "entity_name": "Syracuse", "entity_mid": "m.071cn"}
+{"query": "where did tennessee williams go to college?", "entity_name": "Tennessee Williams", "entity_mid": "m.0c4y8"}
+{"query": "what is the name of airport in new york?", "entity_name": "New York City", "entity_mid": "m.02_286"}
+{"query": "who was queen victoria's husband?", "entity_name": "Queen Victoria", "entity_mid": "m.0cw10"}
+{"query": "where did benjamin franklin work?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "what does barbara bush do for work?", "entity_name": "Barbara Bush", "entity_mid": "m.015nr6"}
+{"query": "who is jacob latimore?", "entity_name": "Jacob Latimore", "entity_mid": "m.0521dwp"}
+{"query": "what happened to dunkirk during ww2?", "entity_name": "Dunkirk", "entity_mid": "m.0md6f"}
+{"query": "what was scottie pippen good at?", "entity_name": "Scottie Pippen", "entity_mid": "m.01vpgl"}
+{"query": "who played donna on west wing?", "entity_name": "Donnatella Moss", "entity_mid": "m.02kvknw"}
+{"query": "who played meg in season 1 of family guy?", "entity_name": "Meg Griffin", "entity_mid": "m.035szd"}
+{"query": "when was the last time the dallas cowboys won the superbowl?", "entity_name": "Dallas Cowboys", "entity_mid": "m.02896"}
+{"query": "where do ireland play rugby union?", "entity_name": "Ireland national rugby union team", "entity_mid": "m.03t3zk"}
+{"query": "who killed lee harvey oswald shot?", "entity_name": "Lee Harvey Oswald", "entity_mid": "m.04gwy"}
+{"query": "when was the last time knicks won the championship?", "entity_name": "New York Knicks", "entity_mid": "m.0jm3v"}
+{"query": "when did celtics win the championship?", "entity_name": "Boston Celtics", "entity_mid": "m.0bwjj"}
+{"query": "what countries included in oceania?", "entity_name": "Oceania", "entity_mid": "m.05nrg"}
+{"query": "what country is nicki minaj from?", "entity_name": "Nicki Minaj", "entity_mid": "m.047sxrj"}
+{"query": "who played harry potter dumbledore actor?", "entity_name": "Professor Albus Dumbledore", "entity_mid": "m.0cb2r"}
+{"query": "who was the prime minister of pakistan in 1999?", "entity_name": "Prime Minister of Pakistan", "entity_mid": "m.02cd6_"}
+{"query": "what movies did christopher plummer play in?", "entity_name": "Christopher Plummer", "entity_mid": "m.01ycbq"}
+{"query": "what is capital city of morocco?", "entity_name": "Morocco", "entity_mid": "m.04wgh"}
+{"query": "what movies is omar epps in?", "entity_name": "Omar Epps", "entity_mid": "m.02_tv5"}
+{"query": "what district does nancy pelosi represent?", "entity_name": "Nancy Pelosi", "entity_mid": "m.012v1t"}
+{"query": "where is walton indiana?", "entity_name": "Walton", "entity_mid": "m.0skd2"}
+{"query": "where did george herbert walker bush go to college?", "entity_name": "George H. W. Bush", "entity_mid": "m.034ls"}
+{"query": "what did bruce jenner win gold medal for?", "entity_name": "Caitlyn Jenner", "entity_mid": "m.03bbdn"}
+{"query": "where do they speak tibetan?", "entity_name": "Standard Tibetan", "entity_mid": "m.064r7fk"}
+{"query": "what to do in hollywood ca this weekend?", "entity_name": "Hollywood", "entity_mid": "m.0f2wj"}
+{"query": "where did kim kardashian come from?", "entity_name": "Kim Kardashian", "entity_mid": "m.0261x8t"}
+{"query": "what town did justin bieber grew up in?", "entity_name": "Justin Bieber", "entity_mid": "m.06w2sn5"}
+{"query": "who plays charlie in the santa clause movies?", "entity_name": "The Santa Clause", "entity_mid": "m.0129g2"}
+{"query": "what highschool did r. kelly attend?", "entity_name": "R. Kelly", "entity_mid": "m.0ffgh"}
+{"query": "what happened at benghazi?", "entity_name": "Benghazi", "entity_mid": "m.01czt9"}
+{"query": "what country is nike based in?", "entity_name": "Nike, Inc.", "entity_mid": "m.0lwkh"}
+{"query": "what kind of money do i bring to mexico?", "entity_name": "Mexico", "entity_mid": "m.0b90_r"}
+{"query": "who did steve spurrier play pro football for?", "entity_name": "Steve Spurrier", "entity_mid": "m.03yx01"}
+{"query": "where do the blackhawks play?", "entity_name": "Chicago Blackhawks", "entity_mid": "m.0jnlm"}
+{"query": "who plays john connor?", "entity_name": "John Connor", "entity_mid": "m.06nsv4"}
+{"query": "what is the main language spoken in mexico?", "entity_name": "Mexico", "entity_mid": "m.0b90_r"}
+{"query": "what are italians classified as?", "entity_name": "Italian people", "entity_mid": "m.0222qb"}
+{"query": "what has angelina jolie accomplished?", "entity_name": "Angelina Jolie", "entity_mid": "m.0f4vbz"}
+{"query": "who played captain kirk in star trek movie?", "entity_name": "James T. Kirk", "entity_mid": "m.0crtw"}
+{"query": "who played dana scully in x files?", "entity_name": "Dana Scully", "entity_mid": "m.022jb6"}
+{"query": "what was f. scott fitzgerald?", "entity_name": "F. Scott Fitzgerald", "entity_mid": "m.02zjd"}
+{"query": "what is the dominant language spoken in jamaica?", "entity_name": "Jamaica", "entity_mid": "m.03_r3"}
+{"query": "who is the coach for the new york knicks?", "entity_name": "New York Knicks", "entity_mid": "m.0jm3v"}
+{"query": "who was wesley snipes?", "entity_name": "Wesley Snipes", "entity_mid": "m.02lymt"}
+{"query": "where does sherrod brown live?", "entity_name": "Sherrod Brown", "entity_mid": "m.034s80"}
+{"query": "what kind of language does colombia speak?", "entity_name": "Colombia", "entity_mid": "m.01ls2"}
+{"query": "what currency does england use now?", "entity_name": "England", "entity_mid": "m.02jx1"}
+{"query": "who was the original voice of meg griffin on family guy?", "entity_name": "Meg Griffin", "entity_mid": "m.035szd"}
+{"query": "what kind of government is mali?", "entity_name": "Mali", "entity_mid": "m.04v09"}
+{"query": "who did cristiano ronaldo play for in 2010?", "entity_name": "Cristiano Ronaldo", "entity_mid": "m.02xt6q"}
+{"query": "what is the zip code for morgantown wv?", "entity_name": "Morgantown", "entity_mid": "m.010y34"}
+{"query": "what is jacksonville fl timezone?", "entity_name": "Jacksonville", "entity_mid": "m.0ggh3"}
+{"query": "who does amy stiller play in dodgeball?", "entity_name": "Amy Stiller", "entity_mid": "m.0194r1"}
+{"query": "who were king henry vii children?", "entity_name": "Henry VII of England", "entity_mid": "m.03p6r"}
+{"query": "who does mila kunis play on family guy?", "entity_name": "Family Guy", "entity_mid": "m.019nnl"}
+{"query": "when did the san francisco earthquake occur?", "entity_name": "1906 San Francisco earthquake", "entity_mid": "m.01f6rm"}
+{"query": "who played damien in the omen 2006?", "entity_name": "The Omen", "entity_mid": "m.07c5kt"}
+{"query": "who played denver in four christmases?", "entity_name": "Four Christmases", "entity_mid": "m.03gttvn"}
+{"query": "what to do with kids in essex?", "entity_name": "Essex", "entity_mid": "m.02ly_"}
+{"query": "who did the cleveland cavaliers draft?", "entity_name": "Cleveland Cavaliers", "entity_mid": "m.0jm7n"}
+{"query": "what concentration camp did anne frank died in?", "entity_name": "Anne Frank", "entity_mid": "m.03d9rk"}
+{"query": "what language does east timor speak?", "entity_name": "Timor-Leste", "entity_mid": "m.02lx0"}
+{"query": "what is the currency in italy?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "where does greek language come from?", "entity_name": "Greek Language", "entity_mid": "m.0349s"}
+{"query": "what is the name of the currency used in italy?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "where is audrey hepburn from?", "entity_name": "Audrey Hepburn", "entity_mid": "m.0dqcm"}
+{"query": "who does darth vaders voice?", "entity_name": "Darth Vader", "entity_mid": "m.0f2y0"}
+{"query": "what school did douglas macarthur go to?", "entity_name": "Douglas MacArthur", "entity_mid": "m.0c_jc"}
+{"query": "what famous people are from barbados?", "entity_name": "Barbados", "entity_mid": "m.0162v"}
+{"query": "what is the name of the currency used in china?", "entity_name": "China", "entity_mid": "m.0d05w3"}
+{"query": "what are the names of michael jackson's 3 children?", "entity_name": "Michael Jackson", "entity_mid": "m.09889g"}
+{"query": "who is the current governor of arizona 2010?", "entity_name": "Arizona", "entity_mid": "m.0vmt"}
+{"query": "who is lamar odom playing for this year?", "entity_name": "Lamar Odom", "entity_mid": "m.02_nkp"}
+{"query": "where were the great pyramids of giza built?", "entity_name": "Great Pyramid of Giza", "entity_mid": "m.036mk"}
+{"query": "what language do the russian speak?", "entity_name": "Russia", "entity_mid": "m.06bnz"}
+{"query": "what language do australia people speak?", "entity_name": "Australia", "entity_mid": "m.0chghy"}
+{"query": "what country was king tut's tomb found?", "entity_name": "KV62", "entity_mid": "m.01qg6m"}
+{"query": "where did abraham and his descendants live?", "entity_name": "Abraham", "entity_mid": "m.0pwb"}
+{"query": "where did george washington carver go to collage?", "entity_name": "George Washington Carver", "entity_mid": "m.03djm"}
+{"query": "what are the sports in spain?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "where president obama was born?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "what sports do people play in poland?", "entity_name": "Poland", "entity_mid": "m.05qhw"}
+{"query": "who was demi lovato dating?", "entity_name": "Demi Lovato", "entity_mid": "m.02wb6yq"}
+{"query": "what films has scarlett johansson been in?", "entity_name": "Scarlett Johansson", "entity_mid": "m.02114t"}
+{"query": "who originally voiced meg on family guy?", "entity_name": "Family Guy", "entity_mid": "m.019nnl"}
+{"query": "who played amy squirrel in bad teacher?", "entity_name": "Bad Teacher", "entity_mid": "m.0cp0ph6"}
+{"query": "where are boeing headquarters?", "entity_name": "Boeing", "entity_mid": "m.0178g"}
+{"query": "what type of religions are in the united states?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "who did viggo mortensen play in lord of the rings?", "entity_name": "Viggo Mortensen", "entity_mid": "m.01ps2h8"}
+{"query": "who was isaac newton and what did he do?", "entity_name": "Isaac Newton", "entity_mid": "m.03s9v"}
+{"query": "who did william shakespeare marry?", "entity_name": "William Shakespeare", "entity_mid": "m.081k8"}
+{"query": "what movies queen latifah is in?", "entity_name": "Queen Latifah", "entity_mid": "m.01wgcvn"}
+{"query": "where did michelle obama graduated from?", "entity_name": "Michelle Obama", "entity_mid": "m.025s5v9"}
+{"query": "what kind of music did franz liszt compose?", "entity_name": "Life of Franz Liszt", "entity_mid": "m.0hqgp"}
+{"query": "what country does david luiz play for?", "entity_name": "David Luiz", "entity_mid": "m.02822jq"}
+{"query": "what document did thomas jefferson wrote?", "entity_name": "Thomas Jefferson", "entity_mid": "m.07cbs"}
+{"query": "who is martin luther king jr facts?", "entity_name": "Martin Luther King, Jr.", "entity_mid": "m.051cc"}
+{"query": "where is victoria british columbia?", "entity_name": "Victoria", "entity_mid": "m.07ypt"}
+{"query": "how many mary mary sisters?", "entity_name": "Mary Mary", "entity_mid": "m.01kq11t"}
+{"query": "what do we call the currency of france?", "entity_name": "France", "entity_mid": "m.0f8l9c"}
+{"query": "what team does david beckham play for in 2012?", "entity_name": "David Beckham", "entity_mid": "m.02d9k"}
+{"query": "what movies did nick cannon star in?", "entity_name": "Nick Cannon", "entity_mid": "m.01d1st"}
+{"query": "what radio station is npr on in nyc?", "entity_name": "NPR", "entity_mid": "m.0c0sl"}
+{"query": "who did tom landry play for?", "entity_name": "Tom Landry", "entity_mid": "m.019_p3"}
+{"query": "where was john jay born?", "entity_name": "John Jay", "entity_mid": "m.046cp"}
+{"query": "where is mount fuji located?", "entity_name": "Mount Fuji", "entity_mid": "m.0cks0"}
+{"query": "where was toussaint l'ouverture born?", "entity_name": "Toussaint Louverture", "entity_mid": "m.011wgw"}
+{"query": "what countries makes up the uk?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "what is lawton ok zip code?", "entity_name": "Lawton", "entity_mid": "m.0z53k"}
+{"query": "what is the capital city of spain wiki answers?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "where do they speak german?", "entity_name": "German Language", "entity_mid": "m.04306rv"}
+{"query": "when did mark mcgwire retired?", "entity_name": "Mark McGwire", "entity_mid": "m.0550x"}
+{"query": "what is colorado technical university?", "entity_name": "Colorado Technical University", "entity_mid": "m.0c_5g9"}
+{"query": "what was the currency used in france before the euro?", "entity_name": "France", "entity_mid": "m.0f8l9c"}
+{"query": "what is kentucky state slogan?", "entity_name": "Kentucky", "entity_mid": "m.0498y"}
+{"query": "who played samantha stephens in bewitched?", "entity_name": "Bewitched", "entity_mid": "m.023ny6"}
+{"query": "what area of science did sir isaac newton study?", "entity_name": "Isaac Newton", "entity_mid": "m.03s9v"}
+{"query": "what county is san diego in?", "entity_name": "San Diego", "entity_mid": "m.071vr"}
+{"query": "which country in north america is divided into provinces?", "entity_name": "North America", "entity_mid": "m.059g4"}
+{"query": "what is real name of santa claus?", "entity_name": "Santa Claus", "entity_mid": "m.027g6wt"}
+{"query": "when did kelly slater go pro?", "entity_name": "Kelly Slater", "entity_mid": "m.028nb1"}
+{"query": "what did coretta scott king died from?", "entity_name": "Coretta Scott King", "entity_mid": "m.0289jv"}
+{"query": "who was vp for nixon?", "entity_name": "Richard Nixon", "entity_mid": "m.06c97"}
+{"query": "what religion did adolf hitler follow?", "entity_name": "Adolf Hitler", "entity_mid": "m.07_m9_"}
+{"query": "where is the illinois river on a map?", "entity_name": "Illinois River", "entity_mid": "m.0j1qb"}
+{"query": "where honduras in the world?", "entity_name": "Honduras", "entity_mid": "m.03h2c"}
+{"query": "who does ronaldinho play for now 2011?", "entity_name": "Ronaldinho", "entity_mid": "m.02lfw5"}
+{"query": "what galileo galilei was famous for?", "entity_name": "Galileo Galilei", "entity_mid": "m.034ks"}
+{"query": "where did romney graduated college?", "entity_name": "Mitt Romney", "entity_mid": "m.0271_s"}
+{"query": "who did johnny depp play in corpse bride?", "entity_name": "Johnny Depp", "entity_mid": "m.0jfx1"}
+{"query": "what is the zip code for jonesboro ar?", "entity_name": "Jonesboro", "entity_mid": "m.0qskp"}
+{"query": "what college did se hinton go?", "entity_name": "S. E. Hinton", "entity_mid": "m.01_fz1"}
+{"query": "when was taylor swift fearless tour?", "entity_name": "Fearless Tour", "entity_mid": "m.06w493d"}
+{"query": "where did charles darwin and his wife live?", "entity_name": "Charles Darwin", "entity_mid": "m.01lwx"}
+{"query": "who is the voice of kitt?", "entity_name": "KITT", "entity_mid": "m.05_bhx"}
+{"query": "what is eminem's real full name?", "entity_name": "Eminem", "entity_mid": "m.01vsgrn"}
+{"query": "who is amy grant's first husband?", "entity_name": "Amy Grant", "entity_mid": "m.010hn"}
+{"query": "what are the seven nations of central america?", "entity_name": "Central America", "entity_mid": "m.01tzh"}
+{"query": "what is jamie spears baby name?", "entity_name": "Jamie Lynn Spears", "entity_mid": "m.0p52s"}
+{"query": "who is the mother of prince michael jackson?", "entity_name": "Michael Jackson", "entity_mid": "m.09889g"}
+{"query": "what is the clemson mascot name?", "entity_name": "Clemson University", "entity_mid": "m.012vwb"}
+{"query": "what rainforest is in south america?", "entity_name": "South America", "entity_mid": "m.06n3y"}
+{"query": "what type of art does claude monet do?", "entity_name": "Claude Monet", "entity_mid": "m.01xnj"}
+{"query": "when did we start war with iraq?", "entity_name": "Iraq War", "entity_mid": "m.0d06vc"}
+{"query": "what guitar did kurt cobain?", "entity_name": "Kurt Cobain", "entity_mid": "m.0484q"}
+{"query": "who did jennifer lawrence play in x men?", "entity_name": "Jennifer Lawrence", "entity_mid": "m.02x0dzw"}
+{"query": "who is the governor of virginia 2011?", "entity_name": "Virginia", "entity_mid": "m.07z1m"}
+{"query": "who did darth vaders voice?", "entity_name": "Darth Vader", "entity_mid": "m.0f2y0"}
+{"query": "where is walton county ga?", "entity_name": "Walton County", "entity_mid": "m.0nym5"}
+{"query": "what cancer did jackie kennedy die of?", "entity_name": "Jacqueline Kennedy Onassis", "entity_mid": "m.0h6mq"}
+{"query": "what does lauren conrad major in?", "entity_name": "Lauren Conrad", "entity_mid": "m.0dq9wx"}
+{"query": "what time zone is pennsylvania in right now?", "entity_name": "Pennsylvania", "entity_mid": "m.05tbn"}
+{"query": "where did mario lopez go to school?", "entity_name": "Mario Lopez", "entity_mid": "m.02w5q6"}
+{"query": "where is tupac from originally?", "entity_name": "Tupac Shakur", "entity_mid": "m.07pzc"}
+{"query": "what role did george lucas play in star wars?", "entity_name": "George Lucas", "entity_mid": "m.0343h"}
+{"query": "what sarah dessen books are movies?", "entity_name": "Sarah Dessen", "entity_mid": "m.052s_8"}
+{"query": "what is the current time in kauai hawaii?", "entity_name": "Hawaii", "entity_mid": "m.03gh4"}
+{"query": "where was farrah fawcett buried?", "entity_name": "Farrah Fawcett", "entity_mid": "m.01j851"}
+{"query": "what inspired steinbeck?", "entity_name": "John Steinbeck", "entity_mid": "m.04107"}
+{"query": "what kind of government does cuba have today?", "entity_name": "Cuba", "entity_mid": "m.0d04z6"}
+{"query": "where are english speakers distributed?", "entity_name": "English Language", "entity_mid": "m.02h40lc"}
+{"query": "what is the capital of italy today?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "what language do people speak in the bahamas?", "entity_name": "Bahamas", "entity_mid": "m.0160w"}
+{"query": "where did george michael go to school?", "entity_name": "George Michael", "entity_mid": "m.01vvyfh"}
+{"query": "what club does cristiano ronaldo play for in 2010?", "entity_name": "Cristiano Ronaldo", "entity_mid": "m.02xt6q"}
+{"query": "what time zone is in the bahamas?", "entity_name": "Bahamas", "entity_mid": "m.0160w"}
+{"query": "what language do people speak in brazil?", "entity_name": "Brazil", "entity_mid": "m.015fr"}
+{"query": "who influenced samuel taylor coleridge?", "entity_name": "Samuel Taylor Coleridge", "entity_mid": "m.078w2"}
+{"query": "what does kim kardashian work as?", "entity_name": "Kim Kardashian", "entity_mid": "m.0261x8t"}
+{"query": "where did the mississippi river end?", "entity_name": "Mississippi River", "entity_mid": "m.04yf_"}
+{"query": "who played carlton lassiter on psych?", "entity_name": "Psych", "entity_mid": "m.0ds5jv"}
+{"query": "who is president of israel?", "entity_name": "Israel", "entity_mid": "m.03spz"}
+{"query": "where did the anasazi indians live?", "entity_name": "Ancestral Puebloans", "entity_mid": "m.0lyq"}
+{"query": "who plays harley quinn?", "entity_name": "Harley Quinn", "entity_mid": "m.01t93k"}
+{"query": "what was francis bacon contributions?", "entity_name": "Francis Bacon", "entity_mid": "m.030dr"}
+{"query": "who is ruling libya?", "entity_name": "Libya", "entity_mid": "m.04gqr"}
+{"query": "when does ziva start on ncis?", "entity_name": "NCIS", "entity_mid": "m.03m8sg"}
+{"query": "what is the name of the national anthem of canada ( 2 words )?", "entity_name": "Canada", "entity_mid": "m.0d060g"}
+{"query": "what did mark zuckerberg study?", "entity_name": "Mark Zuckerberg", "entity_mid": "m.086dny"}
+{"query": "which country was michael jackson born?", "entity_name": "Michael Jackson", "entity_mid": "m.09889g"}
+{"query": "who was stephen r covey?", "entity_name": "Stephen Covey", "entity_mid": "m.01jtkg"}
+{"query": "what country was stalin in charge of?", "entity_name": "Joseph Stalin", "entity_mid": "m.03_lf"}
+{"query": "what is monta ellis career high points?", "entity_name": "Monta Ellis", "entity_mid": "m.06rsnl"}
+{"query": "what nationality is rihanna?", "entity_name": "Rihanna", "entity_mid": "m.06mt91"}
+{"query": "what has shannen doherty played in?", "entity_name": "Shannen Doherty", "entity_mid": "m.039crh"}
+{"query": "what college did joakim noah?", "entity_name": "Joakim Noah", "entity_mid": "m.0c2yrf"}
+{"query": "who plays billy elliot?", "entity_name": "Billy Elliot", "entity_mid": "m.016mhd"}
+{"query": "what kourtney kardashian boyfriends name?", "entity_name": "Kourtney Kardashian", "entity_mid": "m.043ttm7"}
+{"query": "what form of government does australia use?", "entity_name": "Australia", "entity_mid": "m.0chghy"}
+{"query": "what team did howie long?", "entity_name": "Howie Long", "entity_mid": "m.04jg88"}
+{"query": "where did the greek alphabet come from?", "entity_name": "Greek alphabet", "entity_mid": "m.0358gm"}
+{"query": "what timezone is elizabethtown kentucky?", "entity_name": "Elizabethtown", "entity_mid": "m.0tdxc"}
+{"query": "what to see in christchurch new zealand?", "entity_name": "Christchurch", "entity_mid": "m.02yc5b"}
+{"query": "where is chris paul from?", "entity_name": "Chris Paul", "entity_mid": "m.0cymln"}
+{"query": "what year was albert pujols rookie year?", "entity_name": "Albert Pujols", "entity_mid": "m.035gcb"}
+{"query": "what are the colors of the ny giants?", "entity_name": "New York Giants", "entity_mid": "m.05gg4"}
+{"query": "what business did andrew carnegie dominate?", "entity_name": "Andrew Carnegie", "entity_mid": "m.0vdk"}
+{"query": "what was sir isaac newton's inventions?", "entity_name": "Isaac Newton", "entity_mid": "m.03s9v"}
+{"query": "who did shaq first play for?", "entity_name": "Shaquille O'Neal", "entity_mid": "m.012xdf"}
+{"query": "who was the artist of mickey mouse?", "entity_name": "Mickey Mouse", "entity_mid": "m.057ph"}
+{"query": "what is the zip code for concord?", "entity_name": "Concord", "entity_mid": "m.0qymv"}
+{"query": "what football team is michael vick on?", "entity_name": "Michael Vick", "entity_mid": "m.027f42"}
+{"query": "where does the columbia river start?", "entity_name": "Columbia River", "entity_mid": "m.01n86"}
+{"query": "what are all the names of the harry potter books?", "entity_name": "Harry Potter", "entity_mid": "m.03647x"}
+{"query": "who was sir walter raleigh and what did he do?", "entity_name": "Walter Raleigh", "entity_mid": "m.084t6"}
+{"query": "what countries are in the euro dollar?", "entity_name": "Euro", "entity_mid": "m.02l6h"}
+{"query": "what currency can you use in barbados?", "entity_name": "Barbados", "entity_mid": "m.0162v"}
+{"query": "who is angelina jolie?", "entity_name": "Angelina Jolie", "entity_mid": "m.0f4vbz"}
+{"query": "where is nineveh city?", "entity_name": "Nineveh", "entity_mid": "m.05fym"}
+{"query": "what is the state flower of new mexico?", "entity_name": "New Mexico", "entity_mid": "m.05fjy"}
+{"query": "where is the national ffa foundation located today?", "entity_name": "National FFA Organization", "entity_mid": "m.0158y6"}
+{"query": "which countries speak germanic languages?", "entity_name": "German Language", "entity_mid": "m.04306rv"}
+{"query": "who plays eowyn in lord of the rings?", "entity_name": "The Lord of the Rings: The Return of the King", "entity_mid": "m.017jd9"}
+{"query": "where is augusta masters 2012?", "entity_name": "2012 Masters Tournament", "entity_mid": "m.0hrf6ww"}
+{"query": "what type of cancer did eva peron die from?", "entity_name": "Eva Per\u00f3n", "entity_mid": "m.0dltj"}
+{"query": "who did terrell owens play for in 2010?", "entity_name": "Terrell Owens", "entity_mid": "m.027ddp"}
+{"query": "where is denmark south carolina?", "entity_name": "Denmark", "entity_mid": "m.0_kl9"}
+{"query": "what books did ernest hemingway write?", "entity_name": "Ernest Hemingway", "entity_mid": "m.02kz_"}
+{"query": "what year did baltimore ravens win super bowl?", "entity_name": "Baltimore Ravens", "entity_mid": "m.01ct6"}
+{"query": "where did the battle of passchendaele happen?", "entity_name": "Battle of Passchendaele", "entity_mid": "m.0c3mz"}
+{"query": "what part of the country is ohio considered?", "entity_name": "Ohio", "entity_mid": "m.05kkh"}
+{"query": "what team is cristiano ronaldo play for?", "entity_name": "Cristiano Ronaldo", "entity_mid": "m.02xt6q"}
+{"query": "what standard time is michigan?", "entity_name": "Michigan", "entity_mid": "m.04rrx"}
+{"query": "what was john tyler?", "entity_name": "John Tyler", "entity_mid": "m.042dk"}
+{"query": "what did romo do?", "entity_name": "Sergio Romo", "entity_mid": "m.04cyz8g"}
+{"query": "what currency can you use in jamaica?", "entity_name": "Jamaica", "entity_mid": "m.03_r3"}
+{"query": "where did jay moriarty die?", "entity_name": "Jay Moriarty", "entity_mid": "m.04jswm8"}
+{"query": "where was the boston tea party 1773?", "entity_name": "Boston Tea Party", "entity_mid": "m.0ccd96"}
+{"query": "what drugs lindsay lohan abuse?", "entity_name": "Lindsay Lohan", "entity_mid": "m.01pgzn_"}
+{"query": "when did carolina panthers go to superbowl?", "entity_name": "Carolina Panthers", "entity_mid": "m.01y3c"}
+{"query": "when did the burma cyclone happen?", "entity_name": "Cyclone Nargis", "entity_mid": "m.041l08b"}
+{"query": "who won the governor election in texas?", "entity_name": "Texas", "entity_mid": "m.07b_l"}
+{"query": "what does helen flanagan do?", "entity_name": "Helen Flanagan", "entity_mid": "m.087k1_"}
+{"query": "when are the summer and winter olympics held?", "entity_name": "Olympic Games", "entity_mid": "m.05nd_"}
+{"query": "where is tennessee river?", "entity_name": "Tennessee River", "entity_mid": "m.01spb0"}
+{"query": "what are some major events in venezuela?", "entity_name": "Venezuela", "entity_mid": "m.07ylj"}
+{"query": "what guitar does corey taylor play?", "entity_name": "Corey Taylor", "entity_mid": "m.01ttvxc"}
+{"query": "where did kate gosselin grew up?", "entity_name": "Kate Gosselin", "entity_mid": "m.05qbc_9"}
+{"query": "under what political system does the united states government operate?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "what to do in paris in 1 day?", "entity_name": "Paris", "entity_mid": "m.05qtj"}
+{"query": "what city is mt lassen in?", "entity_name": "Lassen Peak", "entity_mid": "m.01ymq1"}
+{"query": "what is the state motto of ohio?", "entity_name": "Ohio", "entity_mid": "m.05kkh"}
+{"query": "what type of music did mozart composed?", "entity_name": "Wolfgang Amadeus Mozart", "entity_mid": "m.082db"}
+{"query": "how many kids were there in the kennedy family?", "entity_name": "Joseph P. Kennedy, Sr.", "entity_mid": "m.01qlg1"}
+{"query": "which barcelona airport is closest to the port?", "entity_name": "Barcelona", "entity_mid": "m.01f62"}
+{"query": "where has the english language evolved from?", "entity_name": "English Language", "entity_mid": "m.02h40lc"}
+{"query": "what country did hitler invade that started ww2?", "entity_name": "World War II", "entity_mid": "m.081pw"}
+{"query": "what does matt damon play in?", "entity_name": "Matt Damon", "entity_mid": "m.0169dl"}
+{"query": "what was scottie pippen known for?", "entity_name": "Scottie Pippen", "entity_mid": "m.01vpgl"}
+{"query": "what continent does canada belong to?", "entity_name": "Canada", "entity_mid": "m.0d060g"}
+{"query": "what does george wilson do for a living?", "entity_name": "George Wilson", "entity_mid": "m.0gmk9p"}
+{"query": "what city does fulham play in?", "entity_name": "Fulham F.C.", "entity_mid": "m.02_lt"}
+{"query": "what are fun things to do in sacramento ca?", "entity_name": "Sacramento", "entity_mid": "m.07bcn"}
+{"query": "what other movies is josh hutcherson in?", "entity_name": "Josh Hutchersonm", "entity_mid": "m.08wjf4"}
+{"query": "what was hitler the leader of?", "entity_name": "Adolf Hitler", "entity_mid": "m.07_m9_"}
+{"query": "what awards did marilyn monroe won?", "entity_name": "Marilyn Monroe", "entity_mid": "m.04wqr"}
+{"query": "what kind of government does iran have after 1979?", "entity_name": "Iran", "entity_mid": "m.03shp"}
+{"query": "where did harper lee attend high school?", "entity_name": "Harper Lee", "entity_mid": "m.01bq7x"}
+{"query": "what college did jrr tolkien go to?", "entity_name": "J. R. R. Tolkien", "entity_mid": "m.041h0"}
+{"query": "what art did wassily kandinsky do?", "entity_name": "Wassily Kandinsky", "entity_mid": "m.0856z"}
+{"query": "who won the league cup in 2002?", "entity_name": "Football League Cup", "entity_mid": "m.012dbw"}
+{"query": "what was antoni gaudi inspired by?", "entity_name": "Antoni Gaud\u00ed", "entity_mid": "m.0yb0"}
+{"query": "in what country do people speak danish?", "entity_name": "Danish Language", "entity_mid": "m.0295r"}
+{"query": "who were demeter's siblings?", "entity_name": "Demeter", "entity_mid": "m.0296l"}
+{"query": "where should a family stay in paris?", "entity_name": "Paris", "entity_mid": "m.05qtj"}
+{"query": "what was the name of benjamin franklin wife?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "what the largest city in spain?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "who has pudge rodriguez played for?", "entity_name": "Iv\u00e1n Rodr\u00edguez", "entity_mid": "m.02p6g7"}
+{"query": "what is the milwaukee brewers stadium called?", "entity_name": "Milwaukee Brewers", "entity_mid": "m.051vz"}
+{"query": "where did the gallipoli war take place?", "entity_name": "Gallipoli Campaign", "entity_mid": "m.01fc7p"}
+{"query": "what other movies has tom hardy played in?", "entity_name": "Tom Hardy", "entity_mid": "m.05xf75"}
+{"query": "what to visit in atlanta?", "entity_name": "Atlanta", "entity_mid": "m.013yq"}
+{"query": "what college did john nash go to?", "entity_name": "John Forbes Nash, Jr.", "entity_mid": "m.0pyqh"}
+{"query": "what language do maltese speak?", "entity_name": "Malta", "entity_mid": "m.04v3q"}
+{"query": "what did thomas edison do for the world?", "entity_name": "Thomas Edison", "entity_mid": "m.07bty"}
+{"query": "where is shakira from?", "entity_name": "Shakira", "entity_mid": "m.01wj18h"}
+{"query": "what did hayes do?", "entity_name": "Rutherford B. Hayes", "entity_mid": "m.06g42"}
+{"query": "who played bilbo in the fellowship of the ring?", "entity_name": "The Lord of the Rings: The Fellowship of the Ring", "entity_mid": "m.017gl1"}
+{"query": "what is the most populated state in united states?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "who is my state senator arizona?", "entity_name": "Arizona", "entity_mid": "m.0vmt"}
+{"query": "when does the vietnam war end?", "entity_name": "Vietnam War", "entity_mid": "m.07_nf"}
+{"query": "where does the tennessee river go?", "entity_name": "Tennessee River", "entity_mid": "m.01spb0"}
+{"query": "who did tom hanks play in apollo 13?", "entity_name": "Tom Hanks", "entity_mid": "m.0bxtg"}
+{"query": "what language do they in ghana?", "entity_name": "Ghana", "entity_mid": "m.035dk"}
+{"query": "what is utah's state capitol?", "entity_name": "Utah State Capitol", "entity_mid": "m.09b86q"}
+{"query": "what all did ben franklin invent?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "what team does jeremy lin play for 2013?", "entity_name": "Jeremy Lin", "entity_mid": "m.09k72lh"}
+{"query": "what is steve nash nationality?", "entity_name": "Steve Nash", "entity_mid": "m.01yqrk"}
+{"query": "who are the u s senators of pennsylvania?", "entity_name": "Pennsylvania", "entity_mid": "m.05tbn"}
+{"query": "what kind of language does france speak?", "entity_name": "France", "entity_mid": "m.0f8l9c"}
+{"query": "what degree did martin luther king earn?", "entity_name": "Martin Luther King, Jr.", "entity_mid": "m.051cc"}
+{"query": "what two states is st louis in?", "entity_name": "St. Louis", "entity_mid": "m.06wxw"}
+{"query": "what did jesse owens won?", "entity_name": "Jesse Owens", "entity_mid": "m.0cmr3"}
+{"query": "what is the name of the currency used in peru?", "entity_name": "Peru", "entity_mid": "m.016wzw"}
+{"query": "what are the four nations of the united kingdom?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "who is judy garland father?", "entity_name": "Judy Garland", "entity_mid": "m.0g10g"}
+{"query": "what school did robert f kennedy go to?", "entity_name": "Robert F. Kennedy", "entity_mid": "m.06hx2"}
+{"query": "what drug killed marilyn monroe?", "entity_name": "Marilyn Monroe", "entity_mid": "m.04wqr"}
+{"query": "where is the fukushima daiichi nuclear power station?", "entity_name": "Fukushima Daiichi Nuclear Power Plant", "entity_mid": "m.02vkzy2"}
+{"query": "what is los angeles california time zone?", "entity_name": "Los Angeles", "entity_mid": "m.030qb3t"}
+{"query": "what did nicolas cage name his son?", "entity_name": "Nicolas Cage", "entity_mid": "m.01vvb4m"}
+{"query": "what currency should take to mexico?", "entity_name": "Mexico", "entity_mid": "m.0b90_r"}
+{"query": "who is the state governor of florida?", "entity_name": "Florida", "entity_mid": "m.02xry"}
+{"query": "who was jessica simpson married too?", "entity_name": "Jessica Simpson", "entity_mid": "m.0c7xjb"}
+{"query": "what do they speak in scotland?", "entity_name": "Scotland", "entity_mid": "m.06q1r"}
+{"query": "what did john dalton study?", "entity_name": "John Dalton", "entity_mid": "m.0c0x7"}
+{"query": "what songs do zac brown band sing?", "entity_name": "Zac Brown Band", "entity_mid": "m.0408z4w"}
+{"query": "where is glastonbury england?", "entity_name": "Glastonbury", "entity_mid": "m.0g78h"}
+{"query": "who formed the american federation of labor?", "entity_name": "American Federation of Labor", "entity_mid": "m.01z4fn"}
+{"query": "what to visit in denver?", "entity_name": "Denver", "entity_mid": "m.02cl1"}
+{"query": "where did thomas hobbes live?", "entity_name": "Thomas Hobbes", "entity_mid": "m.07c37"}
+{"query": "where was john f kennedy when he got shot?", "entity_name": "John F. Kennedy", "entity_mid": "m.0d3k14"}
+{"query": "what type of government does italy have 2011?", "entity_name": "Italy", "entity_mid": "m.03rjj"}
+{"query": "what province is montreal canada located?", "entity_name": "Montreal", "entity_mid": "m.052p7"}
+{"query": "who does kellan lutz play in prom night?", "entity_name": "Kellan Lutz", "entity_mid": "m.02pjwn5"}
+{"query": "what did franz liszt do to earn a living?", "entity_name": "Life of Franz Liszt", "entity_mid": "m.0hqgp"}
+{"query": "what was nikola tesla known for?", "entity_name": "Nikola Tesla", "entity_mid": "m.05d1y"}
+{"query": "what is the zip code for princeton nj?", "entity_name": "Princeton", "entity_mid": "m.0ljsz"}
+{"query": "what other countries border argentina?", "entity_name": "Argentina", "entity_mid": "m.0jgd"}
+{"query": "what language does people in iceland speak?", "entity_name": "Iceland", "entity_mid": "m.03rj0"}
+{"query": "what is the predominant religion in israel?", "entity_name": "Israel", "entity_mid": "m.03spz"}
+{"query": "who has coached the carolina panthers?", "entity_name": "Carolina Panthers", "entity_mid": "m.01y3c"}
+{"query": "what time zone is toronto gmt?", "entity_name": "Toronto", "entity_mid": "m.0h7h6"}
+{"query": "what country did toussaint l'ouverture help free?", "entity_name": "Toussaint Louverture", "entity_mid": "m.011wgw"}
+{"query": "what jobs did robert burns have?", "entity_name": "Robert Burns", "entity_mid": "m.09482"}
+{"query": "who won utah attorney general?", "entity_name": "Utah", "entity_mid": "m.07srw"}
+{"query": "who is the leader of libya 2011?", "entity_name": "Libya", "entity_mid": "m.04gqr"}
+{"query": "what the language spoken in indonesia?", "entity_name": "Indonesia", "entity_mid": "m.03ryn"}
+{"query": "who coaches the carolina panthers?", "entity_name": "Carolina Panthers", "entity_mid": "m.01y3c"}
+{"query": "what other countries does south africa share borders with?", "entity_name": "South Africa", "entity_mid": "m.0hzlz"}
+{"query": "who played darth vader at the end of return of the jedi?", "entity_name": "Darth Vader", "entity_mid": "m.0f2y0"}
+{"query": "what movies did joan crawford play in?", "entity_name": "Joan Crawford", "entity_mid": "m.0cgbf"}
+{"query": "what products does the united states export?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "what is the kentucky state bird?", "entity_name": "Kentucky", "entity_mid": "m.0498y"}
+{"query": "who was canadian prime minister in 1993?", "entity_name": "Prime Minister of Canada", "entity_mid": "m.060m4"}
+{"query": "what there to do in salt lake city utah?", "entity_name": "Salt Lake City", "entity_mid": "m.0f2r6"}
+{"query": "who is the current ohio state senator?", "entity_name": "United States Senate", "entity_mid": "m.07t58"}
+{"query": "what are the major languages spoken in the united kingdom?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "what did st. nicholas do in his life?", "entity_name": "Saint Nicholas", "entity_mid": "m.0f9q7"}
+{"query": "what happened to pope john paul ii?", "entity_name": "Pope John Paul II", "entity_mid": "m.05yfx"}
+{"query": "what was franklin pierce famous for?", "entity_name": "Franklin Pierce", "entity_mid": "m.02z51"}
+{"query": "when was the last time the boston bruins went to the stanley cup?", "entity_name": "Boston Bruins", "entity_mid": "m.0j2zj"}
+{"query": "who is meredith gray married to in real life?", "entity_name": "Meredith Grey", "entity_mid": "m.0268x2f"}
+{"query": "what inspired michelangelo buonarroti?", "entity_name": "Michelangelo", "entity_mid": "m.058w5"}
+{"query": "what does monsanto own?", "entity_name": "Monsanto", "entity_mid": "m.0n8m6"}
+{"query": "who did woody harrelson play on cheers?", "entity_name": "Woody Harrelson", "entity_mid": "m.0170s4"}
+{"query": "what language do they speak in sweden yahoo?", "entity_name": "Sweden", "entity_mid": "m.0d0vqn"}
+{"query": "what language did they speak in ghana?", "entity_name": "Ghana", "entity_mid": "m.035dk"}
+{"query": "what form of government do we have in the philippines?", "entity_name": "Philippines", "entity_mid": "m.05v8c"}
+{"query": "what colleges did mitt romney attend?", "entity_name": "Mitt Romney", "entity_mid": "m.0271_s"}
+{"query": "where is ibrahim afellay from?", "entity_name": "Ibrahim Afellay", "entity_mid": "m.08w78j"}
+{"query": "who was the secretary of state when andrew jackson was president?", "entity_name": "Andrew Jackson", "entity_mid": "m.0rlz"}
+{"query": "who does ron stoppable's voice?", "entity_name": "Ron Stoppable", "entity_mid": "m.09w3mr"}
+{"query": "what currency is accepted in new zealand?", "entity_name": "New Zealand", "entity_mid": "m.0ctw_b"}
+{"query": "what places are in the west midlands?", "entity_name": "West Midlands", "entity_mid": "m.0dyjz"}
+{"query": "what to do with kids in asheville nc?", "entity_name": "Asheville", "entity_mid": "m.0ydpd"}
+{"query": "who is in the american league in baseball?", "entity_name": "American League", "entity_mid": "m.0h8b0"}
+{"query": "who did kurt warner play 4?", "entity_name": "Kurt Warner", "entity_mid": "m.025j0c"}
+{"query": "who is dirk nowitzki wife?", "entity_name": "Dirk Nowitzki", "entity_mid": "m.023dcl"}
+{"query": "where all did picasso live?", "entity_name": "Pablo Picasso", "entity_mid": "m.060_7"}
+{"query": "what currency shall i take to croatia?", "entity_name": "Croatia", "entity_mid": "m.01pj7"}
+{"query": "what team is raul ibanez on?", "entity_name": "Ra\u00fal Iba\u00f1ez", "entity_mid": "m.06xvwt"}
+{"query": "what tv series did mark harmon star in?", "entity_name": "Mark Harmon", "entity_mid": "m.037gjc"}
+{"query": "what year did jimmy the rev sullivan die?", "entity_name": "The Rev", "entity_mid": "m.025sf_8"}
+{"query": "who plays anakin skywalker in star wars 1?", "entity_name": "Star Wars Episode I: The Phantom Menace", "entity_mid": "m.0ddt_"}
+{"query": "where does michelle pfeiffer live now?", "entity_name": "Michelle Pfeiffer", "entity_mid": "m.0gx_p"}
+{"query": "what was laura ingalls wilder famous for?", "entity_name": "Laura Ingalls Wilder", "entity_mid": "m.01bt87"}
+{"query": "where is dwight howard now?", "entity_name": "Dwight Howard", "entity_mid": "m.02fg_f"}
+{"query": "who is nick lachey married to?", "entity_name": "Nick Lachey", "entity_mid": "m.039bpc"}
+{"query": "where did madonna grew up?", "entity_name": "Madonna", "entity_mid": "m.01vs_v8"}
+{"query": "what capital city of brazil?", "entity_name": "Brazil", "entity_mid": "m.015fr"}
+{"query": "what college did john stockton go to?", "entity_name": "John Stockton", "entity_mid": "m.01r6lw"}
+{"query": "what kind of currency does mexico use?", "entity_name": "Mexico", "entity_mid": "m.0b90_r"}
+{"query": "who owns chrysler corporation 2011?", "entity_name": "Chrysler Group LLC", "entity_mid": "m.01_bp"}
+{"query": "what are some books that mark twain wrote?", "entity_name": "Mark Twain", "entity_mid": "m.014635"}
+{"query": "what was gregor mendel contribution?", "entity_name": "Gregor Mendel", "entity_mid": "m.039c5"}
+{"query": "who has ray allen dated?", "entity_name": "Ray Allen", "entity_mid": "m.03lh3v"}
+{"query": "who is running for vice president with barack obama 2012?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "what language do people from the uk speak?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "what to do with my kids in toronto?", "entity_name": "Toronto", "entity_mid": "m.0h7h6"}
+{"query": "what kind of government is south korea?", "entity_name": "South Korea", "entity_mid": "m.06qd3"}
+{"query": "who did ben franklin marry?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "what sri lanka capital?", "entity_name": "Sri Lanka", "entity_mid": "m.06m_5"}
+{"query": "what kind of government does poland have?", "entity_name": "Poland", "entity_mid": "m.05qhw"}
+{"query": "what famous people came from delaware?", "entity_name": "Delaware", "entity_mid": "m.026mj"}
+{"query": "when did romney become governor?", "entity_name": "Mitt Romney", "entity_mid": "m.0271_s"}
+{"query": "what currency does cyprus use?", "entity_name": "Cyprus", "entity_mid": "m.01ppq"}
+{"query": "what type of guitar does johnny depp play?", "entity_name": "Johnny Depp", "entity_mid": "m.0jfx1"}
+{"query": "what episode of how i met your mother is carrie underwood on?", "entity_name": "Carrie Underwood", "entity_mid": "m.058s57"}
+{"query": "who are the 9 justices of the supreme court 2011?", "entity_name": "Supreme Court of the United States", "entity_mid": "m.07sz1"}
+{"query": "who is dustin johnson the golfer?", "entity_name": "Dustin Johnson", "entity_mid": "m.04n4sw4"}
+{"query": "who did cher have a son with?", "entity_name": "Cher", "entity_mid": "m.01vtj38"}
+{"query": "what city is the university of oregon state in?", "entity_name": "University of Oregon", "entity_mid": "m.01n6r0"}
+{"query": "who played carmen cortez in spy kids?", "entity_name": "Spy Kids", "entity_mid": "m.02rrfzf"}
+{"query": "what is the political system in germany?", "entity_name": "Germany", "entity_mid": "m.0345h"}
+{"query": "what prompted shakespeare to write poetry?", "entity_name": "William Shakespeare", "entity_mid": "m.081k8"}
+{"query": "what is the currency in turkey called?", "entity_name": "Turkey", "entity_mid": "m.01znc_"}
+{"query": "what school did mark zuckerberg attend?", "entity_name": "Mark Zuckerberg", "entity_mid": "m.086dny"}
+{"query": "where does kate middleton live 2012?", "entity_name": "Catherine, Duchess of Cambridge", "entity_mid": "m.05mnc3"}
+{"query": "what type of art does marc chagall do?", "entity_name": "Marc Chagall", "entity_mid": "m.0g_j0"}
+{"query": "what character did billy d williams play in star wars?", "entity_name": "Billy Dee Williams", "entity_mid": "m.027_sn"}
+{"query": "what language is spoken in argentina?", "entity_name": "Argentina", "entity_mid": "m.0jgd"}
+{"query": "what school did wilfred owen go to?", "entity_name": "Wilfred Owen", "entity_mid": "m.0ckwt"}
+{"query": "who is kevin jonas married to?", "entity_name": "Kevin Jonas", "entity_mid": "m.04d_mtq"}
+{"query": "where does airtran airways fly?", "entity_name": "AirTran Airways", "entity_mid": "m.01vk4t"}
+{"query": "where does the city of paris get its name?", "entity_name": "Paris", "entity_mid": "m.05qtj"}
+{"query": "who did sandra bullock marry?", "entity_name": "Sandra Bullock", "entity_mid": "m.0794g"}
+{"query": "where is olympic national park located?", "entity_name": "Olympic National Park", "entity_mid": "m.015nrn"}
+{"query": "where is the un based?", "entity_name": "United Nations", "entity_mid": "m.07t65"}
+{"query": "what city and state is yale located in?", "entity_name": "University Yale", "entity_mid": "m.08815"}
+{"query": "where did thomas paine die?", "entity_name": "Thomas Paine", "entity_mid": "m.07kwl"}
+{"query": "where was barack hussein obama sr born?", "entity_name": "Barack Obama, Sr.", "entity_mid": "m.03qccxj"}
+{"query": "where is the home stadium of the new england patriots?", "entity_name": "New England Patriots", "entity_mid": "m.05g3b"}
+{"query": "who was kate chopin?", "entity_name": "Kate Chopin", "entity_mid": "m.0d8pw"}
+{"query": "when did bill clinton go to college?", "entity_name": "Bill Clinton", "entity_mid": "m.0157m"}
+{"query": "what are staffordshire terriers?", "entity_name": "Staffordshire Bull Terrier", "entity_mid": "m.01kv93"}
+{"query": "what to do downtown sacramento?", "entity_name": "Sacramento", "entity_mid": "m.07bcn"}
+{"query": "who is michael j fox parents?", "entity_name": "Michael J. Fox", "entity_mid": "m.0hz_1"}
+{"query": "where did sanjay gupta go to school?", "entity_name": "Sanjay Gupta", "entity_mid": "m.02yyk6"}
+{"query": "what countries are involved in the nafta?", "entity_name": "North American Free Trade Agreement", "entity_mid": "m.05jj_"}
+{"query": "what continent is cayman islands located?", "entity_name": "Cayman Islands", "entity_mid": "m.01nty"}
+{"query": "what language speak in brazil?", "entity_name": "Brazil", "entity_mid": "m.015fr"}
+{"query": "who does kroy biermann play football for?", "entity_name": "Kroy Biermann", "entity_mid": "m.043m195"}
+{"query": "when is the last time the pittsburgh steelers won a superbowl?", "entity_name": "Pittsburgh Steelers", "entity_mid": "m.05tfm"}
+{"query": "who invented islamic religion?", "entity_name": "Islam", "entity_mid": "m.0flw86"}
+{"query": "who were we fighting in the gulf war?", "entity_name": "Gulf War", "entity_mid": "m.018w0j"}
+{"query": "how many languages do they speak in switzerland?", "entity_name": "Switzerland", "entity_mid": "m.06mzp"}
+{"query": "what political party does barack obama represent?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "what movies does logan lerman play in?", "entity_name": "Logan Lerman", "entity_mid": "m.04f1s6"}
+{"query": "where did emperor constantine die?", "entity_name": "Constantine the Great", "entity_mid": "m.021tl"}
+{"query": "where is mali located?", "entity_name": "Mali", "entity_mid": "m.04v09"}
+{"query": "what planet did luke skywalker came from?", "entity_name": "Luke Skywalker", "entity_mid": "m.0f1bg"}
+{"query": "who are the coaches for the oakland raiders?", "entity_name": "Oakland Raiders", "entity_mid": "m.05l71"}
+{"query": "where was the first microsoft headquarters located?", "entity_name": "Microsoft Corporation", "entity_mid": "m.04sv4"}
+{"query": "where did john steinbeck go to college?", "entity_name": "John Steinbeck", "entity_mid": "m.04107"}
+{"query": "what did niels bohr discover about the atomic structure?", "entity_name": "Niels Henrik David Bohr", "entity_mid": "m.059y0"}
+{"query": "what books did louis sachar wrote?", "entity_name": "Louis Sachar", "entity_mid": "m.01bq8d"}
+{"query": "who is ryan reynolds married to 2012?", "entity_name": "Ryan Reynolds", "entity_mid": "m.036hf4"}
+{"query": "what is newt gingrich's wife's name?", "entity_name": "Newt Gingrich", "entity_mid": "m.018fzs"}
+{"query": "what type of music did antonio vivaldi play?", "entity_name": "Antonio Vivaldi", "entity_mid": "m.0pth"}
+{"query": "what school does james franco go to?", "entity_name": "James Franco", "entity_mid": "m.05bnp0"}
+{"query": "what is samuel langhorne clemens well known for?", "entity_name": "Mark Twain", "entity_mid": "m.014635"}
+{"query": "who was president after william henry harrison?", "entity_name": "President of the United States", "entity_mid": "m.060d2"}
+{"query": "where did rick santorum attend high school?", "entity_name": "Rick Santorum", "entity_mid": "m.01fgd3"}
+{"query": "what is the title of george bush's new book?", "entity_name": "George W. Bush", "entity_mid": "m.09b6zr"}
+{"query": "where did antoine lavoisier die?", "entity_name": "Antoine Lavoisier", "entity_mid": "m.0tfw"}
+{"query": "what is the name of king george vi wife?", "entity_name": "George VI", "entity_mid": "m.0cm83"}
+{"query": "what year did seattle seahawks go to the super bowl?", "entity_name": "Seattle Seahawks", "entity_mid": "m.070xg"}
+{"query": "where does sami yusuf live?", "entity_name": "Sami Yusuf", "entity_mid": "m.08cnsg"}
+{"query": "what is the official language of brazil now?", "entity_name": "Brazil", "entity_mid": "m.015fr"}
+{"query": "what is the parliament of nepal called?", "entity_name": "Parliament of Nepal", "entity_mid": "m.0c5yqk"}
+{"query": "when's the last time the mets won the world series?", "entity_name": "New York Mets", "entity_mid": "m.05g76"}
+{"query": "where do florida panthers play?", "entity_name": "Florida Panthers", "entity_mid": "m.0j8js"}
+{"query": "who is john cena married to?", "entity_name": "John Cena", "entity_mid": "m.01ypx5"}
+{"query": "what to do san jose ca?", "entity_name": "San Jose", "entity_mid": "m.0f04v"}
+{"query": "who founded new york university?", "entity_name": "New York University", "entity_mid": "m.0bwfn"}
+{"query": "who created arthur?", "entity_name": "Arthur", "entity_mid": "m.0px0r"}
+{"query": "what countries constitute the eu?", "entity_name": "European Union", "entity_mid": "m.0_6t_z8"}
+{"query": "what are all the countries in north africa?", "entity_name": "North Africa", "entity_mid": "m.05g2v"}
+{"query": "what did bobby darin die of?", "entity_name": "Bobby Darin", "entity_mid": "m.0pj9t"}
+{"query": "where does houston dynamo play?", "entity_name": "Houston Dynamo", "entity_mid": "m.09cl0w"}
+{"query": "what kind of guitar john mayer?", "entity_name": "John Mayer", "entity_mid": "m.01s21dg"}
+{"query": "what cancer did patrick swayze?", "entity_name": "Patrick Swayze", "entity_mid": "m.02h3tp"}
+{"query": "what university did obama graduated from?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "what jamaican money called?", "entity_name": "Jamaica", "entity_mid": "m.03_r3"}
+{"query": "where is the arizona cardinals stadium located?", "entity_name": "Arizona Cardinals", "entity_mid": "m.0ws7"}
+{"query": "what is sir isaac newton theory?", "entity_name": "Isaac Newton", "entity_mid": "m.03s9v"}
+{"query": "what should i do today in san francisco?", "entity_name": "San Francisco", "entity_mid": "m.0d6lp"}
+{"query": "who influenced picasso art?", "entity_name": "Pablo Picasso", "entity_mid": "m.060_7"}
+{"query": "what is my timezone in pennsylvania?", "entity_name": "Pennsylvania", "entity_mid": "m.05tbn"}
+{"query": "what products and\\/or services does google offer customers?", "entity_name": "Google", "entity_mid": "m.045c7b"}
+{"query": "who did cliff lee play for last year?", "entity_name": "Cliff Lee", "entity_mid": "m.05bz_j"}
+{"query": "what type of democracy is the united states?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "what time in china hong kong?", "entity_name": "Hong Kong", "entity_mid": "m.03h64"}
+{"query": "what all movies has taylor lautner been in?", "entity_name": "Taylor Lautner", "entity_mid": "m.07ldhs"}
+{"query": "what disease did bernie mac die of?", "entity_name": "Bernie Mac", "entity_mid": "m.02lj6p"}
+{"query": "who plays spike spiegel?", "entity_name": "Spike Spiegel", "entity_mid": "m.025tj1w"}
+{"query": "who was queen isabella's mother?", "entity_name": "Isabella I of Castile", "entity_mid": "m.0jd6m"}
+{"query": "who does chris hemsworth have a baby with?", "entity_name": "Chris Hemsworth", "entity_mid": "m.04jnqj"}
+{"query": "where is the mts iceplex in winnipeg?", "entity_name": "MTS Iceplex", "entity_mid": "m.0g5r_z_"}
+{"query": "what are the most popular religions in israel?", "entity_name": "Israel", "entity_mid": "m.03spz"}
+{"query": "what was obama's former occupation?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "where is the thames river source?", "entity_name": "River Thames", "entity_mid": "m.0d2kt"}
+{"query": "what new movies is robert pattinson in?", "entity_name": "Robert Pattinson", "entity_mid": "m.062dn7"}
+{"query": "what language do they use in pakistan?", "entity_name": "Pakistan", "entity_mid": "m.05sb1"}
+{"query": "what kind of products does nike sell?", "entity_name": "Nike, Inc.", "entity_mid": "m.0lwkh"}
+{"query": "who did lbj marry?", "entity_name": "Lyndon B. Johnson", "entity_mid": "m.0f7fy"}
+{"query": "where did kim jong il die?", "entity_name": "Kim Jong-il", "entity_mid": "m.0143y5"}
+{"query": "what honor did agatha christie receive in 1971?", "entity_name": "Agatha Christie", "entity_mid": "m.0ldd"}
+{"query": "what is the sacred text of daoism?", "entity_name": "Taoism", "entity_mid": "m.07gvx"}
+{"query": "what countries speak english natively?", "entity_name": "English Language", "entity_mid": "m.02h40lc"}
+{"query": "who won fedex cup 2012?", "entity_name": "FedEx Cup", "entity_mid": "m.08q5ws"}
+{"query": "what language is mainly spoken in egypt?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "who played alf on tv show?", "entity_name": "ALF", "entity_mid": "m.01klc1"}
+{"query": "who was gerald ford vp?", "entity_name": "Gerald Ford", "entity_mid": "m.0c_md_"}
+{"query": "what is armenian currency?", "entity_name": "Armenia", "entity_mid": "m.0jgx"}
+{"query": "what type of art did raphael sanzio create?", "entity_name": "Raphael", "entity_mid": "m.0c43g"}
+{"query": "what language do they speak in malta?", "entity_name": "Malta", "entity_mid": "m.04v3q"}
+{"query": "what religion was king louis xiv?", "entity_name": "Louis XIV of France", "entity_mid": "m.04pwg"}
+{"query": "what football team does mike wright play for?", "entity_name": "Mike Wright", "entity_mid": "m.07twz9"}
+{"query": "what did shannon hoon die from?", "entity_name": "Shannon Hoon", "entity_mid": "m.01w2x6z"}
+{"query": "what did nicholas copernicus discover?", "entity_name": "Nicolaus Copernicus", "entity_mid": "m.01vvm4"}
+{"query": "what teams has manny ramirez played for?", "entity_name": "Manny Ramirez", "entity_mid": "m.06tjlc"}
+{"query": "where do the appalachian mountains run?", "entity_name": "Appalachian Mountains", "entity_mid": "m.0lm0n"}
+{"query": "when was president wilson in office?", "entity_name": "Woodrow Wilson", "entity_mid": "m.083q7"}
+{"query": "what political party is jerry brown?", "entity_name": "Jerry Brown", "entity_mid": "m.017pf5"}
+{"query": "what ocean is around hawaii?", "entity_name": "Hawaii", "entity_mid": "m.0jbt3"}
+{"query": "what is the most common language spoken in argentina?", "entity_name": "Argentina", "entity_mid": "m.0jgd"}
+{"query": "what language tunisia?", "entity_name": "Tunisia", "entity_mid": "m.07fj_"}
+{"query": "what are some inventions that leonardo da vinci invented?", "entity_name": "Leonardo da Vinci", "entity_mid": "m.04lg6"}
+{"query": "who wrote st trinians?", "entity_name": "St Trinian's School", "entity_mid": "m.01nxmb"}
+{"query": "what are malaysian coins called?", "entity_name": "Malaysia", "entity_mid": "m.09pmkv"}
+{"query": "what type government does mexico have?", "entity_name": "Mexico", "entity_mid": "m.0b90_r"}
+{"query": "what currency does dominican republic take?", "entity_name": "Dominican Republic", "entity_mid": "m.027rn"}
+{"query": "what inspired michael jackson to become a singer?", "entity_name": "Michael Jackson", "entity_mid": "m.09889g"}
+{"query": "who is the texas state senator?", "entity_name": "Texas", "entity_mid": "m.07b_l"}
+{"query": "what to visit in london city?", "entity_name": "London", "entity_mid": "m.04jpl"}
+{"query": "what genre of art is the mona lisa?", "entity_name": "Mona Lisa", "entity_mid": "m.0jbg2"}
+{"query": "who does peter griffin voice?", "entity_name": "Peter Griffin", "entity_mid": "m.03n6jv"}
+{"query": "when did tony romo got drafted?", "entity_name": "Tony Romo", "entity_mid": "m.097yk7"}
+{"query": "what are the catholic holy days?", "entity_name": "Catholicism", "entity_mid": "m.0c8wxp"}
+{"query": "what language is most commonly spoken in belgium?", "entity_name": "Belgium", "entity_mid": "m.0154j"}
+{"query": "where did frank baum die?", "entity_name": "L. Frank Baum", "entity_mid": "m.04mby"}
+{"query": "where is tunis on a map?", "entity_name": "Tunisia", "entity_mid": "m.07fj_"}
+{"query": "who is nicolas cage married too?", "entity_name": "Nicolas Cage", "entity_mid": "m.01vvb4m"}
+{"query": "who does the voice for chucky in child's play?", "entity_name": "Child's Play", "entity_mid": "m.02mkzj"}
+{"query": "what did mary wollstonecraft fight for?", "entity_name": "Mary Wollstonecraft", "entity_mid": "m.04_cw"}
+{"query": "what year did the phillies begin?", "entity_name": "Philadelphia Phillies", "entity_mid": "m.05xvj"}
+{"query": "what language does iceland speak?", "entity_name": "Iceland", "entity_mid": "m.03rj0"}
+{"query": "what was dr seuss real name?", "entity_name": "Theodore Lesieg", "entity_mid": "m.02g3w"}
+{"query": "what did gloria steinem founded?", "entity_name": "Gloria Steinem", "entity_mid": "m.01rnwj"}
+{"query": "what language they speak in scotland?", "entity_name": "Scotland", "entity_mid": "m.06q1r"}
+{"query": "what boarding school did mark zuckerberg go to?", "entity_name": "Mark Zuckerberg", "entity_mid": "m.086dny"}
+{"query": "what are bigos?", "entity_name": "Bigos", "entity_mid": "m.06815z"}
+{"query": "where are ike and tina turner's children?", "entity_name": "Tina Turner", "entity_mid": "m.01vwyqp"}
+{"query": "what are some of leonardo da vinci most famous inventions?", "entity_name": "Leonardo da Vinci", "entity_mid": "m.04lg6"}
+{"query": "when did shaq come into the nba?", "entity_name": "Shaquille O'Neal", "entity_mid": "m.012xdf"}
+{"query": "where do they speak turkish?", "entity_name": "Turkish Language", "entity_mid": "m.02hwyss"}
+{"query": "what is the zip code for walnut creek?", "entity_name": "Walnut Creek", "entity_mid": "m.0qyzb"}
+{"query": "who was the voice of darth vader in the original star wars movie?", "entity_name": "Darth Vader", "entity_mid": "m.0f2y0"}
+{"query": "where is english spoken around the world?", "entity_name": "English Language", "entity_mid": "m.02h40lc"}
+{"query": "what music did louis armstrong play?", "entity_name": "Louis Armstrong", "entity_mid": "m.04n32"}
+{"query": "what form of currency does germany use?", "entity_name": "Germany", "entity_mid": "m.0345h"}
+{"query": "where is the latin language from?", "entity_name": "Latin Language", "entity_mid": "m.04h9h"}
+{"query": "what are the top tourist attractions in rome?", "entity_name": "Rome", "entity_mid": "m.06c62"}
+{"query": "who were the children of king solomon?", "entity_name": "Solomon", "entity_mid": "m.070h3"}
+{"query": "what did andy irons die from?", "entity_name": "Andy Irons", "entity_mid": "m.03xn54"}
+{"query": "where is auburn university located?", "entity_name": "Auburn University", "entity_mid": "m.01wdj_"}
+{"query": "who is tatyana ali parents?", "entity_name": "Tatyana Ali", "entity_mid": "m.01knh9l"}
+{"query": "where did leif ericson grow up?", "entity_name": "Leif Eriksson", "entity_mid": "m.02vwg2_"}
+{"query": "what language do the maasai speak?", "entity_name": "Maasai people", "entity_mid": "m.054vv"}
+{"query": "what political party was hitler in?", "entity_name": "Adolf Hitler", "entity_mid": "m.07_m9_"}
+{"query": "who is the leader of north korea today?", "entity_name": "North Korea", "entity_mid": "m.05b7q"}
+{"query": "where do the appalachian mountains run through?", "entity_name": "Appalachian Mountains", "entity_mid": "m.0lm0n"}
+{"query": "what money does spain use?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "where was terry waite born?", "entity_name": "Terry Waite", "entity_mid": "m.013p_j"}
+{"query": "what country did the battle of san juan hill take place?", "entity_name": "Battle of San Juan Hill", "entity_mid": "m.01tf88"}
+{"query": "what kind of government does the united states have currently?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "when was the last time the orioles won the world series?", "entity_name": "Baltimore Orioles", "entity_mid": "m.01d6g"}
+{"query": "who did ben stiller date?", "entity_name": "Ben Stiller", "entity_mid": "m.0mdqp"}
+{"query": "what is the most common language in norway?", "entity_name": "Norway", "entity_mid": "m.05b4w"}
+{"query": "what influenced william shakespeare to start writing?", "entity_name": "William Shakespeare", "entity_mid": "m.081k8"}
+{"query": "where did benjamin franklin went to school?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "who is the governor of arizona 2009?", "entity_name": "Arizona", "entity_mid": "m.0vmt"}
+{"query": "what movies has spike lee made?", "entity_name": "Spike Lee", "entity_mid": "m.06pjs"}
+{"query": "what did bernie mac died of?", "entity_name": "Bernie Mac", "entity_mid": "m.02lj6p"}
+{"query": "where is electrolux based?", "entity_name": "Electrolux", "entity_mid": "m.02h0_y"}
+{"query": "what is houston timezone?", "entity_name": "Houston", "entity_mid": "m.03l2n"}
+{"query": "what was shakespeare's wife called?", "entity_name": "William Shakespeare", "entity_mid": "m.081k8"}
+{"query": "when did truman become president?", "entity_name": "Harry S. Truman", "entity_mid": "m.09bg4l"}
+{"query": "what did ferdinand magellan do?", "entity_name": "Ferdinand Magellan", "entity_mid": "m.033ky"}
+{"query": "where do burmese cats originate from?", "entity_name": "Burmese cat", "entity_mid": "m.01mvkt"}
+{"query": "who played kirk?", "entity_name": "James T. Kirk", "entity_mid": "m.0crtw"}
+{"query": "where is mt st helens located?", "entity_name": "Mount St. Helens", "entity_mid": "m.094xz"}
+{"query": "what county is st paul minnesota in?", "entity_name": "Saint Paul", "entity_mid": "m.0b2lw"}
+{"query": "who was king henry viii son?", "entity_name": "Henry VIII of England", "entity_mid": "m.03p77"}
+{"query": "who does david beckham play for?", "entity_name": "David Beckham", "entity_mid": "m.02d9k"}
+{"query": "where was franz ferdinand from?", "entity_name": "Franz Ferdinand", "entity_mid": "m.02ft60"}
+{"query": "what was benedict arnold most famous for?", "entity_name": "Benedict Arnold", "entity_mid": "m.025_0c"}
+{"query": "who plays lex luthor on smallville?", "entity_name": "Smallville", "entity_mid": "m.03g9xj"}
+{"query": "what are dallas cowboys colors?", "entity_name": "Dallas Cowboys", "entity_mid": "m.02896"}
+{"query": "what is the currency of the czech republic?", "entity_name": "Czech Republic", "entity_mid": "m.01mjq"}
+{"query": "when was the last time the la kings won a playoff series?", "entity_name": "Los Angeles Kings", "entity_mid": "m.0jnq8"}
+{"query": "where did spencer pratt go to school?", "entity_name": "Spencer Pratt", "entity_mid": "m.02z3d24"}
+{"query": "what disease did abraham lincoln had?", "entity_name": "Abraham Lincoln", "entity_mid": "m.0gzh"}
+{"query": "who is vancouver canucks coach?", "entity_name": "Vancouver Canucks", "entity_mid": "m.0jnnx"}
+{"query": "where did cs lewis wrote?", "entity_name": "C. S. Lewis", "entity_mid": "m.01wd02c"}
+{"query": "what is carlos pena jr nationality?", "entity_name": "Carlos Pe\u00f1a", "entity_mid": "m.05c95x"}
+{"query": "who was married to jane wyman?", "entity_name": "Jane Wyman", "entity_mid": "m.01933d"}
+{"query": "what language does peru speak?", "entity_name": "Peru", "entity_mid": "m.016wzw"}
+{"query": "where is english spoken in the world map?", "entity_name": "English Language", "entity_mid": "m.02h40lc"}
+{"query": "when did arsenal won the league?", "entity_name": "Arsenal F.C.", "entity_mid": "m.0xbm"}
+{"query": "what timezone is phoenix az in right now?", "entity_name": "Phoenix", "entity_mid": "m.0d35y"}
+{"query": "where is south portland?", "entity_name": "South Portland", "entity_mid": "m.0tpk4"}
+{"query": "what countries speak french as a first language?", "entity_name": "French", "entity_mid": "m.064_8sq"}
+{"query": "who was ptolemy and what did he do?", "entity_name": "Ptolemy", "entity_mid": "m.05_0t"}
+{"query": "what was the name of henry viii first wife?", "entity_name": "Henry VIII of England", "entity_mid": "m.03p77"}
+{"query": "where does the parana river flow?", "entity_name": "Paran\u00e1 River", "entity_mid": "m.02xsr6"}
+{"query": "what is president nixon's first name?", "entity_name": "Richard Nixon", "entity_mid": "m.06c97"}
+{"query": "where did theodor schwann get his education?", "entity_name": "Theodor Schwann", "entity_mid": "m.040000"}
+{"query": "who or what influenced frank lloyd wright?", "entity_name": "Frank Lloyd Wright", "entity_mid": "m.02wlk"}
+{"query": "what year did houston rockets win their first championship?", "entity_name": "Houston Rockets", "entity_mid": "m.0jmfb"}
+{"query": "where do most of the people live in russia?", "entity_name": "Russia", "entity_mid": "m.06bnz"}
+{"query": "where is holy roman empire located?", "entity_name": "Holy Roman Empire", "entity_mid": "m.03gk2"}
+{"query": "what movies has liam hemsworth played in?", "entity_name": "Liam Hemsworth", "entity_mid": "m.04yd0fh"}
+{"query": "who plays nicholas newman on the young and the restless?", "entity_name": "The Young and the Restless", "entity_mid": "m.01b64v"}
+{"query": "who is the voice of eric cartman on south park?", "entity_name": "South Park", "entity_mid": "m.06y_n"}
+{"query": "who is angelina jolies brother?", "entity_name": "Angelina Jolie", "entity_mid": "m.0f4vbz"}
+{"query": "where is the headquarters of bank of america?", "entity_name": "Bank of America Corporation", "entity_mid": "m.01yx7f"}
+{"query": "what type of government japan have?", "entity_name": "Japan", "entity_mid": "m.03_3d"}
+{"query": "what team does josh hamilton play for?", "entity_name": "Josh Hamilton", "entity_mid": "m.08zxm9"}
+{"query": "where is burundi country?", "entity_name": "Burundi", "entity_mid": "m.0169t"}
+{"query": "through which countries of the sahel does the niger river flow?", "entity_name": "Niger River", "entity_mid": "m.05csx"}
+{"query": "what city does paul ryan live in?", "entity_name": "Paul Ryan", "entity_mid": "m.024v2j"}
+{"query": "what city is acadia university in?", "entity_name": "Acadia University", "entity_mid": "m.0xxc"}
+{"query": "what did f. scott fitzgerald do?", "entity_name": "F. Scott Fitzgerald", "entity_mid": "m.02zjd"}
+{"query": "what countries does tomtom western europe include?", "entity_name": "Tomtom Nv", "entity_mid": "m.03p3m2y"}
+{"query": "what is the national language of iran?", "entity_name": "Iran", "entity_mid": "m.03shp"}
+{"query": "where did the second battle of ypres occur?", "entity_name": "Second Battle of Ypres", "entity_mid": "m.02q3m7"}
+{"query": "what languages do people speak in spain?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "what did michael crabtree do?", "entity_name": "Michael Crabtree", "entity_mid": "m.03ccsym"}
+{"query": "where do they speak afrikaans?", "entity_name": "Afrikaans Language", "entity_mid": "m.0x82"}
+{"query": "what 3 states border florida?", "entity_name": "Florida", "entity_mid": "m.02xry"}
+{"query": "who plays ziva david on ncis?", "entity_name": "Mossad Agent Ziva David", "entity_mid": "m.093xn8"}
+{"query": "who ruled after king henry viii died?", "entity_name": "Henry VIII of England", "entity_mid": "m.03p77"}
+{"query": "who are the st louis cardinals coaches?", "entity_name": "St. Louis Cardinals", "entity_mid": "m.06x68"}
+{"query": "where is daud ibrahim?", "entity_name": "Dawood Ibrahim", "entity_mid": "m.02ry1s"}
+{"query": "what region is turkey considered?", "entity_name": "Turkey", "entity_mid": "m.01znc_"}
+{"query": "what language do russians speak?", "entity_name": "Russia", "entity_mid": "m.06bnz"}
+{"query": "where was martin luther king jr buried?", "entity_name": "Martin Luther King, Jr.", "entity_mid": "m.051cc"}
+{"query": "what are the official languages of argentina?", "entity_name": "Argentina", "entity_mid": "m.0jgd"}
+{"query": "where is the city wales?", "entity_name": "Wales", "entity_mid": "m.0j5g9"}
+{"query": "what country does rafael nadal play for?", "entity_name": "Rafael Nadal", "entity_mid": "m.051q39"}
+{"query": "what is the islamic belief?", "entity_name": "Islam", "entity_mid": "m.0flw86"}
+{"query": "who is the prime minister of spain 2011?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "who was the son of king leonidas?", "entity_name": "Leonidas I", "entity_mid": "m.0nb2t"}
+{"query": "who was judi dench married to?", "entity_name": "Judi Dench", "entity_mid": "m.0lpjn"}
+{"query": "how many languages do they speak in spain?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "where are the sahara desert located?", "entity_name": "Sahara", "entity_mid": "m.01w1vt"}
+{"query": "what is rihanna mum called?", "entity_name": "Rihanna", "entity_mid": "m.06mt91"}
+{"query": "when did president theodore roosevelt take office?", "entity_name": "Theodore Roosevelt", "entity_mid": "m.07hyk"}
+{"query": "who does michael oher play for in 2010?", "entity_name": "Michael Oher", "entity_mid": "m.0h7q7b"}
+{"query": "who or what influenced albert einstein?", "entity_name": "Albert Einstein", "entity_mid": "m.0jcx"}
+{"query": "where does egypt export to?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "where is the seat of the african union?", "entity_name": "African Union", "entity_mid": "m.0gkjy"}
+{"query": "what was kim richards in?", "entity_name": "Kim Richards", "entity_mid": "m.08l257"}
+{"query": "what artistic style did henri rousseau work in?", "entity_name": "Henri Rousseau", "entity_mid": "m.02rdf6"}
+{"query": "what is john edwards indicted for?", "entity_name": "John Edwards", "entity_mid": "m.01651q"}
+{"query": "where was huey newton killed?", "entity_name": "Huey P. Newton", "entity_mid": "m.018y0w"}
+{"query": "when was the printing press invented by gutenberg?", "entity_name": "Printing press", "entity_mid": "m.05sxt"}
+{"query": "where is midlothian scotland?", "entity_name": "Midlothian", "entity_mid": "m.011w8v"}
+{"query": "where does marta play soccer?", "entity_name": "Marta", "entity_mid": "m.09fr69"}
+{"query": "where is mitt romney's family from?", "entity_name": "Mitt Romney", "entity_mid": "m.0271_s"}
+{"query": "what are john terry's children called?", "entity_name": "John Terry", "entity_mid": "m.029f79"}
+{"query": "what city was michael jackson born in?", "entity_name": "Michael Jackson", "entity_mid": "m.09889g"}
+{"query": "who fought in the battle of vicksburg?", "entity_name": "Siege of Vicksburg", "entity_mid": "m.01hf7f"}
+{"query": "what kind of writing is nikolai gogol famous for?", "entity_name": "Nikolai Gogol", "entity_mid": "m.0113sg"}
+{"query": "what year was first world series?", "entity_name": "World Series", "entity_mid": "m.0fjp3"}
+{"query": "who plays simon birch?", "entity_name": "Simon Birch", "entity_mid": "m.070m8v"}
+{"query": "where are the timezones in the usa?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "what does gm make?", "entity_name": "General Motors", "entity_mid": "m.035nm"}
+{"query": "what do people speak in uk?", "entity_name": "United Kingdom", "entity_mid": "m.07ssc"}
+{"query": "what do people in jamaica speak?", "entity_name": "Jamaica", "entity_mid": "m.03_r3"}
+{"query": "what position did lebron james play?", "entity_name": "LeBron James", "entity_mid": "m.01jz6d"}
+{"query": "what was wayne gretzky's first team?", "entity_name": "Wayne Gretzky", "entity_mid": "m.0839s"}
+{"query": "who is the president of peru now?", "entity_name": "Peru", "entity_mid": "m.016wzw"}
+{"query": "what kind of guitar did jerry garcia play?", "entity_name": "Jerry Garcia", "entity_mid": "m.0k1bs"}
+{"query": "what type of art leonardo da vinci do?", "entity_name": "Leonardo da Vinci", "entity_mid": "m.04lg6"}
+{"query": "who are the senators of new jersey now?", "entity_name": "New Jersey", "entity_mid": "m.05fjf"}
+{"query": "where was rihanna raised?", "entity_name": "Rihanna", "entity_mid": "m.06mt91"}
+{"query": "what team does messi play for 2011?", "entity_name": "Lionel Messi", "entity_mid": "m.06qjgc"}
+{"query": "where does lil wayne go to school?", "entity_name": "Lil Wayne", "entity_mid": "m.016kjs"}
+{"query": "where did jrr tolkien go to school?", "entity_name": "J. R. R. Tolkien", "entity_mid": "m.041h0"}
+{"query": "what state is saint louis university in?", "entity_name": "Saint Louis University", "entity_mid": "m.02tz9z"}
+{"query": "what religion does canada follow?", "entity_name": "Canada", "entity_mid": "m.0d060g"}
+{"query": "which countries have spanish as their main language?", "entity_name": "Spanish Language", "entity_mid": "m.06nm1"}
+{"query": "what government does iraq use?", "entity_name": "Iraq", "entity_mid": "m.0d05q4"}
+{"query": "what type of currency do they use in spain?", "entity_name": "Spain", "entity_mid": "m.06mkj"}
+{"query": "what did lincoln steffens wrote?", "entity_name": "Lincoln Steffens", "entity_mid": "m.01bw1c"}
+{"query": "what schools did anders celsius attend?", "entity_name": "Anders Celsius", "entity_mid": "m.010nm"}
+{"query": "what can do in new york?", "entity_name": "New York City", "entity_mid": "m.02_286"}
+{"query": "what currency does france accept?", "entity_name": "France", "entity_mid": "m.0f8l9c"}
+{"query": "what type of religion did massachusetts have?", "entity_name": "Massachusetts", "entity_mid": "m.05k7sb"}
+{"query": "what language do they speak in colombia south america?", "entity_name": "Colombia", "entity_mid": "m.01ls2"}
+{"query": "what kind of government does brazil has?", "entity_name": "Brazil", "entity_mid": "m.015fr"}
+{"query": "what country did gregor mendel live in?", "entity_name": "Gregor Mendel", "entity_mid": "m.039c5"}
+{"query": "where laura ingalls wilder lived?", "entity_name": "Laura Ingalls Wilder", "entity_mid": "m.01bt87"}
+{"query": "what sports are popular in germany?", "entity_name": "Germany", "entity_mid": "m.0345h"}
+{"query": "what's my timezone in oklahoma?", "entity_name": "Oklahoma", "entity_mid": "m.05mph"}
+{"query": "what do they speak in norway?", "entity_name": "Norway", "entity_mid": "m.05b4w"}
+{"query": "what currency does singapore use?", "entity_name": "Singapore", "entity_mid": "m.06t2t"}
+{"query": "what did the blackfoot indians speak?", "entity_name": "Blackfoot Confederacy", "entity_mid": "m.016f5d"}
+{"query": "who plays robin hood in prince of thieves?", "entity_name": "Robin Hood: Prince of Thieves", "entity_mid": "m.01msrb"}
+{"query": "what standard time is texas?", "entity_name": "Texas", "entity_mid": "m.07b_l"}
+{"query": "where does kurdish people live?", "entity_name": "Kurds", "entity_mid": "m.04c28"}
+{"query": "what instrument does louis armstrong?", "entity_name": "Louis Armstrong", "entity_mid": "m.04n32"}
+{"query": "who does alyson stoner play in camp rock?", "entity_name": "Alyson Stoner", "entity_mid": "m.02bwjv"}
+{"query": "what religion does madonna practice?", "entity_name": "Madonna", "entity_mid": "m.01vs_v8"}
+{"query": "what countries are located near egypt?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what made richard hammond famous?", "entity_name": "Richard Hammond", "entity_mid": "m.02508x"}
+{"query": "who originally voiced lois griffin?", "entity_name": "Lois Griffin", "entity_mid": "m.03pcqz"}
+{"query": "what airport do you fly into in paris?", "entity_name": "Paris", "entity_mid": "m.05qtj"}
+{"query": "what rihanna new album called 2012?", "entity_name": "Rihanna", "entity_mid": "m.06mt91"}
+{"query": "where does dave ramsey live?", "entity_name": "Dave Ramsey", "entity_mid": "m.03zf9h"}
+{"query": "what discovery did galileo make?", "entity_name": "Galileo Galilei", "entity_mid": "m.034ks"}
+{"query": "what is the government system of saudi arabia?", "entity_name": "Saudi Arabia", "entity_mid": "m.01z215"}
+{"query": "who plays the role of tony dinozzo on ncis?", "entity_name": "Special Agent Anthony DiNozzo", "entity_mid": "m.07wp25"}
+{"query": "what did jesus do for living?", "entity_name": "Jesus Christ", "entity_mid": "m.045m1_"}
+{"query": "what is the state name of new york city?", "entity_name": "New York City", "entity_mid": "m.02_286"}
+{"query": "who plays knox overstreet?", "entity_name": "Knox Overstreet", "entity_mid": "m.0h5qcr7"}
+{"query": "what movies did david carradine play in?", "entity_name": "David Carradine", "entity_mid": "m.02p5hf"}
+{"query": "what is the stanley cup named after?", "entity_name": "Stanley Cup", "entity_mid": "m.0hn79"}
+{"query": "where is traditional chinese used?", "entity_name": "Chinese language", "entity_mid": "m.01r2l"}
+{"query": "what type of political system is brazil?", "entity_name": "Brazil", "entity_mid": "m.015fr"}
+{"query": "what language did the ancient babylonians speak?", "entity_name": "Babylonia", "entity_mid": "m.0cn3b"}
+{"query": "what kind of painter was wassily kandinsky?", "entity_name": "Wassily Kandinsky", "entity_mid": "m.0856z"}
+{"query": "what form of government does the united states use?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "what money does cuba use?", "entity_name": "Cuba", "entity_mid": "m.0d04z6"}
+{"query": "who is my representative in illinois house?", "entity_name": "Illinois House of Representatives", "entity_mid": "m.03j8g1"}
+{"query": "what timezone is sweden gmt?", "entity_name": "Sweden", "entity_mid": "m.0d0vqn"}
+{"query": "where did robert downey jr go to jail?", "entity_name": "Robert Downey Jr.", "entity_mid": "m.016z2j"}
+{"query": "what degrees did barack obama get?", "entity_name": "Barack Obama", "entity_mid": "m.02mjmr"}
+{"query": "what does god shiva represent?", "entity_name": "Shiva", "entity_mid": "m.074l5"}
+{"query": "what inventions were made by ben franklin?", "entity_name": "Benjamin Franklin", "entity_mid": "m.019fz"}
+{"query": "what is the name of the currency used in switzerland?", "entity_name": "Switzerland", "entity_mid": "m.06mzp"}
+{"query": "who was vice president with bill clinton?", "entity_name": "Bill Clinton", "entity_mid": "m.0157m"}
+{"query": "what songs did franz liszt compose?", "entity_name": "Life of Franz Liszt", "entity_mid": "m.0hqgp"}
+{"query": "where did the russian japanese war happen?", "entity_name": "Russo-Japanese War", "entity_mid": "m.0c4gf"}
+{"query": "what year did the la kings win the cup?", "entity_name": "Los Angeles Kings", "entity_mid": "m.0jnq8"}
+{"query": "what kind of money does egypt have?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what baseball team was jackie robinson on?", "entity_name": "Jackie Robinson", "entity_mid": "m.0443c"}
+{"query": "what body of water does st lawrence river flow into?", "entity_name": "Saint Lawrence River", "entity_mid": "m.0cg4t"}
+{"query": "what form of government does the united states have?", "entity_name": "United States of America", "entity_mid": "m.09c7w0"}
+{"query": "what are the names of ariel's six sisters?", "entity_name": "Ariel", "entity_mid": "m.0cl19h"}
+{"query": "what voices does seth macfarlane play on family guy?", "entity_name": "Family Guy", "entity_mid": "m.019nnl"}
+{"query": "who was william mckinley married to?", "entity_name": "William McKinley", "entity_mid": "m.083p7"}
+{"query": "who played darth vader in the first movie?", "entity_name": "Darth Vader", "entity_mid": "m.0f2y0"}
+{"query": "where did kevin james go to college?", "entity_name": "Kevin James", "entity_mid": "m.03xb2w"}
+{"query": "what year was hitler was born?", "entity_name": "Adolf Hitler", "entity_mid": "m.07_m9_"}
+{"query": "what's there to see in atlanta?", "entity_name": "Atlanta", "entity_mid": "m.013yq"}
+{"query": "where was auschwitz concentration camp located?", "entity_name": "Auschwitz concentration camp", "entity_mid": "m.0v_x"}
+{"query": "what kind of currency does dominican republic use?", "entity_name": "Dominican Republic", "entity_mid": "m.027rn"}
+{"query": "what is spoken in czech republic?", "entity_name": "Czech Republic", "entity_mid": "m.01mjq"}
+{"query": "where was shakespeare born at?", "entity_name": "William Shakespeare", "entity_mid": "m.081k8"}
+{"query": "where did scott fitzgerald go to college?", "entity_name": "F. Scott Fitzgerald", "entity_mid": "m.02zjd"}
+{"query": "what did joan crawford died of?", "entity_name": "Joan Crawford", "entity_mid": "m.0cgbf"}
+{"query": "where did rob kardashian go to school?", "entity_name": "Rob Kardashian", "entity_mid": "m.043n6dp"}
+{"query": "what year was allen iverson mvp?", "entity_name": "Allen Iverson", "entity_mid": "m.01sg7_"}
+{"query": "where did harry s truman go to school?", "entity_name": "Harry S. Truman", "entity_mid": "m.09bg4l"}
+{"query": "what county is utica ny in?", "entity_name": "Utica", "entity_mid": "m.0lpk3"}
+{"query": "what did charles babbage discover?", "entity_name": "Charles Babbage", "entity_mid": "m.01qmz"}
+{"query": "who plays king julian madagascar?", "entity_name": "Madagascar", "entity_mid": "m.01sbv9"}
+{"query": "who is rick scott?", "entity_name": "Rick Scott", "entity_mid": "m.0btx2g"}
+{"query": "where did the crimean war take place?", "entity_name": "Crimean War", "entity_mid": "m.0cmc2"}
+{"query": "what offices did theodore roosevelt hold?", "entity_name": "Theodore Roosevelt", "entity_mid": "m.07hyk"}
+{"query": "what movies has miley cyrus been in?", "entity_name": "Miley Cyrus", "entity_mid": "m.0bdxs5"}
+{"query": "who did james franco play in milk?", "entity_name": "Milk", "entity_mid": "m.03hkch7"}
+{"query": "when did the libyan conflict start?", "entity_name": "2011 military intervention in Libya", "entity_mid": "m.0gh674m"}
+{"query": "what wnba team is diana taurasi on?", "entity_name": "Diana Taurasi", "entity_mid": "m.037bzt"}
+{"query": "what do see in paris?", "entity_name": "Paris", "entity_mid": "m.05qtj"}
+{"query": "who made the laws in canada?", "entity_name": "Canada", "entity_mid": "m.0d060g"}
+{"query": "what year did adam morrison get drafted?", "entity_name": "Adam Morrison", "entity_mid": "m.08_g4q"}
+{"query": "where michael jackson from?", "entity_name": "Michael Jackson", "entity_mid": "m.09889g"}
+{"query": "what college did maya moore go to?", "entity_name": "Maya Moore", "entity_mid": "m.027w0l1"}
+{"query": "when was the last time the dodgers won a championship?", "entity_name": "Los Angeles Dodgers", "entity_mid": "m.04mjl"}
+{"query": "who is captain james cook facts?", "entity_name": "James Cook", "entity_mid": "m.03_j8"}
+{"query": "where did robin williams get married?", "entity_name": "Robin Williams", "entity_mid": "m.0dzf_"}
+{"query": "what form of government does canada?", "entity_name": "Canada", "entity_mid": "m.0d060g"}
+{"query": "who do islamic people follow?", "entity_name": "Islam", "entity_mid": "m.0flw86"}
+{"query": "what kind of government does peru?", "entity_name": "Peru", "entity_mid": "m.016wzw"}
+{"query": "who was in the israeli palestinian conflict?", "entity_name": "Israeli\u2013Palestinian conflict", "entity_mid": "m.0cj5y"}
+{"query": "who founded the afl?", "entity_name": "American Football League", "entity_mid": "m.0ysy"}
+{"query": "where did diego velazquez die?", "entity_name": "Diego Vel\u00e1zquez", "entity_mid": "m.0k92y"}
+{"query": "what is the country code for mexico?", "entity_name": "Mexico", "entity_mid": "m.0b90_r"}
+{"query": "what currency do they use in switzerland?", "entity_name": "Switzerland", "entity_mid": "m.06mzp"}
+{"query": "where is president kennedy buried?", "entity_name": "John F. Kennedy", "entity_mid": "m.0d3k14"}
+{"query": "where was the prophet mohammed from?", "entity_name": "Muhammad in Islam", "entity_mid": "m.04s9n"}
+{"query": "what language do ukrainian people speak?", "entity_name": "Ukraine", "entity_mid": "m.07t21"}
+{"query": "who are the judges appointed in the supreme court?", "entity_name": "Supreme Court of the United States", "entity_mid": "m.07sz1"}
+{"query": "when did kaley cuoco join charmed?", "entity_name": "Kaley Cuoco", "entity_mid": "m.03kxp7"}
+{"query": "where is chris rock from?", "entity_name": "Chris Rock", "entity_mid": "m.016_mj"}
+{"query": "when was the last time the toronto maple leafs win the stanley cup?", "entity_name": "Toronto Maple Leafs", "entity_mid": "m.0j6tr"}
+{"query": "what kind of language do egyptian speak?", "entity_name": "Egypt", "entity_mid": "m.02k54"}
+{"query": "what language do brazilians use?", "entity_name": "Brazil", "entity_mid": "m.015fr"}
+{"query": "what position did vince lombardi play?", "entity_name": "Vince Lombardi", "entity_mid": "m.07_xf"}
+{"query": "who played stanley kowalski in a streetcar named desire movie?", "entity_name": "A Streetcar Named Desire", "entity_mid": "m.097zcz"}
+{"query": "what book did charles darwin wrote in 1859?", "entity_name": "Charles Darwin", "entity_mid": "m.01lwx"}
+{"query": "what language do serbs speak?", "entity_name": "Serbia", "entity_mid": "m.077qn"}
+{"query": "what was the cause of death for laci peterson?", "entity_name": "Laci Peterson", "entity_mid": "m.01f6vb"}
+{"query": "what team is kris humphries play for?", "entity_name": "Kris Humphries", "entity_mid": "m.0730b4"}
+{"query": "what movies gerard butler has been in?", "entity_name": "Gerard Butler", "entity_mid": "m.038rzr"}
+{"query": "where did john franklin live?", "entity_name": "John Franklin", "entity_mid": "m.06hw0m"}
+{"query": "what was the last movie sean connery was in?", "entity_name": "Sean Connery", "entity_mid": "m.06mr6"}
+{"query": "what team did drogba play for?", "entity_name": "Didier Drogba", "entity_mid": "m.03_y2f"}
+{"query": "where did crabtree go to college?", "entity_name": "Michael Crabtree", "entity_mid": "m.03ccsym"}
+{"query": "where does freddie ljungberg come from?", "entity_name": "Fredrik Ljungberg", "entity_mid": "m.02g16c"}
+{"query": "who is number 22 on miami dolphins?", "entity_name": "Miami Dolphins", "entity_mid": "m.04vn5"}
+{"query": "what state did john adams live in?", "entity_name": "John Adams", "entity_mid": "m.03_js"}
+{"query": "what type of music did vivaldi compose?", "entity_name": "Antonio Vivaldi", "entity_mid": "m.0pth"}
+{"query": "what team does mike fisher play for?", "entity_name": "Mike Fisher", "entity_mid": "m.07d7xv"}
+{"query": "what films has daniel craig been in?", "entity_name": "Daniel Craig", "entity_mid": "m.04shbh"}
+{"query": "what materials did eduardo paolozzi use in his work?", "entity_name": "Eduardo Paolozzi", "entity_mid": "m.03fncl"}
+{"query": "what did joe biden study in college?", "entity_name": "Joe Biden", "entity_mid": "m.012gx2"}
+{"query": "who plays timon's voice in the lion king?", "entity_name": "The Lion King", "entity_mid": "m.0m63c"}
+{"query": "what part of the country is ohio in?", "entity_name": "Ohio", "entity_mid": "m.05kkh"}
+{"query": "which island is kailua on?", "entity_name": "Kailua", "entity_mid": "m.0r_x0"}
+{"query": "what language do speak in argentina?", "entity_name": "Argentina", "entity_mid": "m.0jgd"}
+{"query": "what did whoopi goldberg won a grammy for?", "entity_name": "Whoopi Goldberg", "entity_mid": "m.0fb1q"}
+{"query": "who played maggie in himym?", "entity_name": "Maggie Simpson", "entity_mid": "m.0h67q"}
+{"query": "who does owen schmitt play for?", "entity_name": "Owen Schmitt", "entity_mid": "m.027rvyc"}
+{"query": "what party was thomas jefferson affiliated with?", "entity_name": "Thomas Jefferson", "entity_mid": "m.07cbs"}
+{"query": "what religions are popular in france?", "entity_name": "France", "entity_mid": "m.0f8l9c"}
+{"query": "who played berger in sex and the city?", "entity_name": "Sex and the City", "entity_mid": "m.0l76z"}
+{"query": "who won the 2000 fa cup final?", "entity_name": "FA Cup", "entity_mid": "m.02_p0"}
+{"query": "what are the names of michael jackson's kids?", "entity_name": "Michael Jackson", "entity_mid": "m.09889g"}
+{"query": "what movies have robert pattinson in them?", "entity_name": "Robert Pattinson", "entity_mid": "m.062dn7"}
+{"query": "what the time zone in japan?", "entity_name": "Japan", "entity_mid": "m.03_3d"}
+{"query": "who plays bob kelso in scrubs?", "entity_name": "Bob Kelso", "entity_mid": "m.0ck2ty"}
+{"query": "what race is vanessa carlton?", "entity_name": "Vanessa Carlton", "entity_mid": "m.02sj66"}
+{"query": "what do people in czech republic speak?", "entity_name": "Czech Republic", "entity_mid": "m.01mjq"}
+{"query": "which countries speak arabic language?", "entity_name": "Arabic Language", "entity_mid": "m.0jzc"}
+{"query": "where does tim cook work?", "entity_name": "Tim Cook", "entity_mid": "m.05r65m"}
+{"query": "what degrees does romney have?", "entity_name": "Mitt Romney", "entity_mid": "m.0271_s"}
+{"query": "where is bob marley buried?", "entity_name": "Bob Marley", "entity_mid": "m.0bkf4"}
+{"query": "what is london uk time zone?", "entity_name": "London", "entity_mid": "m.04jpl"}
+{"query": "where to stay in chicago tourist?", "entity_name": "Chicago", "entity_mid": "m.01_d4"}
+{"query": "what type of breast cancer did sheryl crow have?", "entity_name": "Sheryl Crow", "entity_mid": "m.06rgq"}
+{"query": "what type of government does argentina have today?", "entity_name": "Argentina", "entity_mid": "m.0jgd"}
+{"query": "where does fabio capello come from?", "entity_name": "Fabio Capello", "entity_mid": "m.030_wt"}
+{"query": "what party was abe lincoln part of?", "entity_name": "Abraham Lincoln", "entity_mid": "m.0gzh"}
+{"query": "what did jack london do for a living?", "entity_name": "Jack London", "entity_mid": "m.0bt23"}
+{"query": "who did morgan freeman marry?", "entity_name": "Morgan Freeman", "entity_mid": "m.055c8"}
+{"query": "what are the mountains in northern italy called?", "entity_name": "Apennine Mountains", "entity_mid": "m.01cg88"}
+{"query": "what influenced john steinbeck to start writing?", "entity_name": "John Steinbeck", "entity_mid": "m.04107"}
+{"query": "where is dwayne johnson ethnicity?", "entity_name": "Dwayne Johnson", "entity_mid": "m.014g_s"}
+{"query": "where are the nato headquarters located?", "entity_name": "North Atlantic Treaty Organization (NATO)", "entity_mid": "m.059dn"}
+{"query": "in which state was the battle of antietam fought?", "entity_name": "Battle of Antietam", "entity_mid": "m.0lkxb"}
+{"query": "which ocean does the zambezi river flow into?", "entity_name": "Zambezi", "entity_mid": "m.0p_70"}
+{"query": "what team did david beckham play for before la galaxy?", "entity_name": "David Beckham", "entity_mid": "m.02d9k"}
+{"query": "who is the current leader of france 2010?", "entity_name": "France", "entity_mid": "m.0f8l9c"}
+{"query": "where was the palace of knossos located?", "entity_name": "Knossos", "entity_mid": "m.0ksnn"}
+{"query": "where is roswell area 51?", "entity_name": "Area 51", "entity_mid": "m.0yjq"}
+{"query": "when was father chris riley born?", "entity_name": "Chris Riley", "entity_mid": "m.03d8_d9"}
