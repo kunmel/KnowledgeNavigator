@@ -1,8 +1,18 @@
 # KnowledgeNavigator
-This is the code for our paper [KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph]
+This is the code for our paper [KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph](https://arxiv.org/abs/2312.15880)
 
 ## Structure
 ![](img/structure.png)
+
+## Citation
+```
+@article{guo2023knowledgenavigator,
+  title={KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph},
+  author={Guo, Tiezheng and Yang, Qingwen and Wang, Chen and Liu, Yanyi and Li, Pan and Tang, Jiawei and Li, Dapeng and Wen, Yingyou},
+  journal={arXiv preprint arXiv:2312.15880},
+  year={2023}
+}
+```
 
 ## Instructions
 
